@@ -8,7 +8,23 @@ let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
+// Create a layer group to hold the markers
+let markerLayer = L.layerGroup().addTo(myMap);
 
+// Create an object to hold the different layers
+let baseLayers = {
+    "Street Map": streetmap,
+};
+
+// Add the marker layer to the layers object
+let overlayLayers = {
+    "AI Influencers": markerLayer,
+};
+
+// Add layer control to the map
+L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
+
+// Collect AI Influencer Data
 fetch('../../Resources/influencer_data.jsonl')
     .then(response => {
         if (!response.ok) {
@@ -22,6 +38,7 @@ fetch('../../Resources/influencer_data.jsonl')
         // Parse each non-empty line as JSON
         const jsonObjects = lines
             .filter(line => line.trim() !== '') // Filter out empty lines
+            .slice(0, 200)
             .map(line => {
                 try {
                     return JSON.parse(line);
@@ -55,17 +72,25 @@ fetch('../../Resources/influencer_data.jsonl')
             }
         };
 
-        // Example usage:
-        getLocationCoordinates(jsonObjects[0]['State or Province'])
-            .then(coordinates => {
-                console.log('Coordinates:', coordinates);
-                // Now you can use the coordinates to add markers to a map
-                // For example, using a mapping library like Leaflet or Google Maps JavaScript API
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
+        // Convert the locations to coordinates
+        jsonObjects.forEach(obj => {
+            getLocationCoordinates(obj['State or Province'])
+                .then(coordinates => {
+                    console.log(`Coordinates for ${obj['State or Province']}:`, coordinates);
+                    // Use the coordinates to add markers to a map
+                    L.marker(coordinates)
+                    .bindPopup("<h3>" + obj['State or Province'] + "</h3> <p>" +
+                    coordinates.lat + ", " + coordinates.lng + "</p>")
+                    .addTo(markerLayer);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        });
     })
     .catch(error => {
         console.error('Fetch error:', error);
     });
+
+
+// Collect Youtube influencer data
