@@ -8,7 +8,7 @@ let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-// Create a layer group to hold the markers
+// Create layer groups to hold the markers
 let markerLayer = L.layerGroup().addTo(myMap);
 
 // Create an object to hold the different layers
@@ -23,6 +23,28 @@ let overlayLayers = {
 
 // Add layer control to the map
 L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
+
+// Function to get coordinates for a state/province using Geoapify
+const getLocationCoordinates = async (locationName) => {
+    const apiKey = '010eab3aafc649ef9faa7cc14d2497ff';
+    const url = `https://api.geoapify.com/v1/geocode/search?text=${encodeURIComponent(locationName)}&apiKey=${apiKey}`;
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+        if (data && data.features && data.features.length > 0) {
+            const coordinates = data.features[0].geometry.coordinates;
+            return {
+                lat: coordinates[1],
+                lng: coordinates[0]
+            };
+        } else {
+            throw new Error('Location not found');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        throw error;
+    }
+};
 
 // Collect AI Influencer Data
 fetch('../../Resources/influencer_data.jsonl')
@@ -91,16 +113,3 @@ fetch('../../Resources/influencer_data.jsonl')
     .catch(error => {
         console.error('Fetch error:', error);
     });
-
-
-// Collect Youtube influencer data
-d3.csv('../../Resources/Sept_clean_data.csv').then(data => {
-    console.log(data);
-    console.log(data[0]);
-    console.log(data[0].Country);
-    })
-    .catch(error => {
-        console.error('Fetch error:', error);
-    });
-
-// 
