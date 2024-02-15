@@ -76,7 +76,7 @@ fetch('../../Resources/influencer_data.jsonl')
         jsonObjects.forEach(obj => {
             getLocationCoordinates(obj['State or Province'])
                 .then(coordinates => {
-                    console.log(`Coordinates for ${obj['State or Province']}:`, coordinates);
+                    // console.log(`Coordinates for ${obj['State or Province']}:`, coordinates);
                     // Use the coordinates to add markers to a map
                     L.marker(coordinates)
                     .bindPopup("<h3>" + obj['State or Province'] + "</h3> <p>" +
@@ -94,3 +94,13 @@ fetch('../../Resources/influencer_data.jsonl')
 
 
 // Collect Youtube influencer data
+d3.csv('../../Resources/Sept_clean_data.csv').then(data => {
+    console.log(data);
+    console.log(data[0]);
+    console.log(data[0].Country);
+    })
+    .catch(error => {
+        console.error('Fetch error:', error);
+    });
+
+// 
