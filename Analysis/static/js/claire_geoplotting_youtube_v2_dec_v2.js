@@ -9,7 +9,7 @@ let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 }).addTo(myMap);
 
 // Create layer groups to hold the circles
-let circleLayerSept = L.layerGroup().addTo(myMap);
+let circleLayerDec = L.layerGroup().addTo(myMap);
 
 // Create an object to hold the different layers
 let baseLayers = {
@@ -19,7 +19,7 @@ let baseLayers = {
 // Add the circle layer to the layers object
 let overlayLayers = {
     // "AI Influencers": circleLayerAI,
-    "YT- September": circleLayerSept,
+    "YT- December": circleLayerDec,
 };
 
 // Add layer control to the map
@@ -56,28 +56,28 @@ const getLocationCoordinates = async (locationName, count) => {
     }
 };
 
-// Collect Sept_clean_data
-d3.csv('../../Resources/Sept_clean_data_v2.csv').then(data => {
+// Collect Nov_clean_data
+d3.csv('../../Resources/Dec_clean_data_v2.csv').then(data => {
     console.log(data);
 
     // Create a new marker cluster group
-    let markersSept = L.markerClusterGroup();
+    let markersDec = L.markerClusterGroup();
 
     // Loop through the data
     data.forEach(obj => {
         getLocationCoordinates(obj.Country, parseInt(obj.Count))
             .then(coordinates => {
                 // Add a new marker to the marker cluster group, and bind a popup
-                markersSept.addLayer(L.marker(coordinates)
-                    .bindPopup(`<b>${obj.Country}</b>`));
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
+                markersDec.addLayer(L.marker([coordinates.lat, coordinates.lng])
+                .bindPopup(`<b>${obj.Country}</b>`));
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
     });
 
     // Add the marker cluster layer to the map
-    myMap.addLayer(markersSept);
+    myMap.addLayer(markersDec);
 }).catch(error => {
     console.error('Fetch error:', error);
 });

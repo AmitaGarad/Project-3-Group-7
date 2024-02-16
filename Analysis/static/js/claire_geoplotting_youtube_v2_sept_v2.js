@@ -26,10 +26,14 @@ let overlayLayers = {
 L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
 
 // Create an object to hold the sum of counts for each country
-let countryCounts = {};
+let countryCoordinates = {};
 
 // Function to get coordinates for a location using Geoapify
 const getLocationCoordinates = async (locationName, count) => {
+    if (countryCoordinates[locationName]) {
+        return countryCoordinates[locationName];
+    }
+
     const apiKey = '010eab3aafc649ef9faa7cc14d2497ff';
     const url = `https://api.geoapify.com/v1/geocode/search?text=${encodeURIComponent(locationName)}&apiKey=${apiKey}`;
 
@@ -38,15 +42,11 @@ const getLocationCoordinates = async (locationName, count) => {
         const data = await response.json();
         if (data && data.features && data.features.length > 0) {
             const coordinates = data.features[0].geometry.coordinates;
-            const country = data.features[0].properties.country;
-            if (!countryCounts[country]) {
-                countryCounts[country] = 0;
-            }
-            countryCounts[country] += count;
-            return {
+            countryCoordinates[locationName] = {
                 lat: coordinates[1],
                 lng: coordinates[0]
             };
+            return countryCoordinates[locationName];
         } else {
             throw new Error('Location not found');
         }
@@ -68,7 +68,7 @@ d3.csv('../../Resources/Sept_clean_data_v2.csv').then(data => {
         getLocationCoordinates(obj.Country, parseInt(obj.Count))
             .then(coordinates => {
                 // Add a new marker to the marker cluster group, and bind a popup
-                markersSept.addLayer(L.marker(coordinates)
+                markersSept.addLayer(L.marker([coordinates.lat, coordinates.lng])
                     .bindPopup(`<b>${obj.Country}</b>`));
             })
             .catch(error => {
