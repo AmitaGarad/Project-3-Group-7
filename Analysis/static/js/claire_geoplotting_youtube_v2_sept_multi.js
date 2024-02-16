@@ -1,7 +1,7 @@
 // Create the map object
 let myMap = L.map("map", {
     center: [0, 0],
-    zoom: 1.5
+    zoom: 1
 });
 
 let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

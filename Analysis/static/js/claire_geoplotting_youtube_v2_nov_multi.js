@@ -1,74 +1,69 @@
 // Create the map object
-let myMap2 = L.map("map2", {
+let myMap = L.map("map", {
     center: [0, 0],
-    zoom: 2
+    zoom: 1
 });
 
-let streetmap2 = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(myMap2);
+}).addTo(myMap);
 
 // Create layer groups to hold the circles
-let circleLayerNov = L.layerGroup();
-
-// Create an object to hold the different layers
-let baseLayers2 = {
-    "Street Map": streetmap2,
-};
-
-// Add the circle layer to the layers object
-let overlayLayers2 = {
-    // "AI Influencers": circleLayerAI,
-    "YT- November": circleLayerNov,
-};
-
-// Add layer control to the map
-L.control.layers(baseLayers2, overlayLayers2, {collapsed:false}).addTo(myMap);
+let circleLayerSept = L.layerGroup().addTo(myMap);
 
 // Create an object to hold the sum of counts for each country
-let countryCounts2 = {};
+let countryCoordinates = {};
+
+// Function to get coordinates for a location using Geoapify
+const getLocationCoordinates = async (locationName, count) => {
+    if (countryCoordinates[locationName]) {
+        return countryCoordinates[locationName];
+    }
+
+    const apiKey = '010eab3aafc649ef9faa7cc14d2497ff';
+    const url = `https://api.geoapify.com/v1/geocode/search?text=${encodeURIComponent(locationName)}&apiKey=${apiKey}`;
+
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+        if (data && data.features && data.features.length > 0) {
+            const coordinates = data.features[0].geometry.coordinates;
+            countryCoordinates[locationName] = {
+                lat: coordinates[1],
+                lng: coordinates[0]
+            };
+            return countryCoordinates[locationName];
+        } else {
+            throw new Error('Location not found');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        throw error;
+    }
+};
 
 // Collect Nov_clean_data
 d3.csv('../../Resources/Nov_clean_data_v2.csv').then(data => {
     console.log(data);
 
-    // Create an array to store all getLocationCoordinates promises
-    let promises2 = [];
+    // Create a new marker cluster group
+    let markersNov = L.markerClusterGroup();
 
     // Loop through the data
     data.forEach(obj => {
-        // Push each promise to the promises array
-        promises2.push(
-            getLocationCoordinates(obj.Country, parseInt(obj.Count))
-                .then(coordinates => {
-                    // Return an object with coordinates and country
-                    return {
-                        coordinates: [coordinates.lat, coordinates.lng],
-                        country: obj.Country
-                    };
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                })
-        );
+        getLocationCoordinates(obj.Country, parseInt(obj.Count))
+            .then(coordinates => {
+                // Add a new marker to the marker cluster group, and bind a popup
+                markersNov.addLayer(L.marker([coordinates.lat, coordinates.lng])
+                    .bindPopup(`<b>${obj.Country}</b>`));
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
     });
 
-    // Wait for all promises to resolve
-    Promise.all(promises2).then(results => {
-        // Create a new marker cluster group
-        let markersSept = L.markerClusterGroup();
-
-        // Loop through the results and add markers to the marker cluster group
-        results.forEach(result => {
-            markersSept.addLayer(L.marker(result.coordinates)
-                .bindPopup(`<b>${result.country}</b>`));
-        });
-
-        // Add the marker cluster layer to the map
-        myMap2.addLayer(markersSept);
-    }).catch(error => {
-        console.error('Promise.all error:', error);
-    });
+    // Add the marker cluster layer to the map
+    myMap.addLayer(markersNov);
 }).catch(error => {
     console.error('Fetch error:', error);
 });
