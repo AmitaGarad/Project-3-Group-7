@@ -1,7 +1,7 @@
 // Create the map object
 let myMap = L.map("map", {
     center: [0, 0],
-    zoom: 2
+    zoom: 1.5
 });
 
 let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -9,21 +9,7 @@ let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 }).addTo(myMap);
 
 // Create layer groups to hold the circles
-let circleLayerSept = L.layerGroup();
-
-// Create an object to hold the different layers
-let baseLayers = {
-    "Street Map": streetmap,
-};
-
-// Add the circle layer to the layers object
-let overlayLayers = {
-    // "AI Influencers": circleLayerAI,
-    "YT- September": circleLayerSept,
-};
-
-// Add layer control to the map
-L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
+let circleLayerSept = L.layerGroup().addTo(myMap);
 
 // Create an object to hold the sum of counts for each country
 let countryCoordinates = {};
@@ -56,48 +42,29 @@ const getLocationCoordinates = async (locationName, count) => {
     }
 };
 
+
 // Collect Sept_clean_data
 d3.csv('../../Resources/Sept_clean_data_v2.csv').then(data => {
     console.log(data);
 
-    // Create an array to store all getLocationCoordinates promises
-    let promises = [];
+    // Create a new marker cluster group
+    let markersSept = L.markerClusterGroup();
 
     // Loop through the data
     data.forEach(obj => {
-        // Push each promise to the promises array
-        promises.push(
-            getLocationCoordinates(obj.Country, parseInt(obj.Count))
-                .then(coordinates => {
-                    // Return an object with coordinates and country
-                    return {
-                        coordinates: [coordinates.lat, coordinates.lng],
-                        country: obj.Country
-                    };
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                })
-        );
+        getLocationCoordinates(obj.Country, parseInt(obj.Count))
+            .then(coordinates => {
+                // Add a new marker to the marker cluster group, and bind a popup
+                markersSept.addLayer(L.marker([coordinates.lat, coordinates.lng])
+                    .bindPopup(`<b>${obj.Country}</b>`));
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
     });
 
-    // Wait for all promises to resolve
-    Promise.all(promises).then(results => {
-        // Create a new marker cluster group
-        let markersSept = L.markerClusterGroup();
-
-        // Loop through the results and add markers to the marker cluster group
-        results.forEach(result => {
-            markersSept.addLayer(L.marker(result.coordinates)
-                .bindPopup(`<b>${result.country}</b>`));
-        });
-
-        // Add the marker cluster layer to the map
-        myMap.addLayer(markersSept);
-    }).catch(error => {
-        console.error('Promise.all error:', error);
-    });
+    // Add the marker cluster layer to the map
+    myMap.addLayer(markersSept);
 }).catch(error => {
     console.error('Fetch error:', error);
 });
-
