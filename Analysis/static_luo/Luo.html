@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI Influencer Measurement</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
+    <style>
+        .dropdown-item {display: block;}
+    </style>
+    <script src="Luo.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>AI Influencer indicator</h1>
+          <p>Use the interactive charts to measure each AI-generated influencer capability</p>
+        </div>
+      </div>
+      <button id="toggle">Influencer dropdown</button>
+      <div id="dropdown">
+          <input type="text" id="input" placeholder="Search influencer ...">
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Influencer Info</h3>
+        </div>
+        <div id="Influencer-data" class="panel-body"></div>
+      </div>
+    </div>
+  </body>
+
+</html>
