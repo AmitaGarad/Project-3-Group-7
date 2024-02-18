@@ -114,42 +114,32 @@ function createPieChart(data) {
                     //create first bar chart
                     Cat_Key1 = [];
                     dataset1 = [];
+                    dataset2 = [];
                     for (let i = 0; i < sorted_View.length; i++) {
                         Cat_Key1.push(sorted_View[i].Category),
-                        dataset1.push(sorted_View[i].Views_Ratio)
+                        dataset1.push(sorted_View[i].Views_Ratio),
+                        dataset2.push(sorted_View[i].Likes_Ratio)
                     };
                     
                     console.log(sorted_View);
-                    console.log(dataset1);                
-
-                    //create second bar chart
-                    Cat_Key2 = [];
-                    dataset2 = [];
-                    sorted_Like = jointData2.sort(function(a,b){
-                        return b.Likes_Ratio - a.Likes_Ratio
-                    });
-                    for (let i = 0; i < sorted_View.length; i++) {
-                        Cat_Key2.push(sorted_Like[i].Category)
-                    };
-                    for (let i = 0; i < sorted_View.length; i++) {
-                        dataset2.push(sorted_Like[i].Likes_Ratio)
-                    };
-                    console.log(Cat_Key2);
                     console.log(dataset2);
 
                     //Create chart with chart.js
                     let matchCat = jointData.filter(i=>i.Name==data)[0].Category;
                     console.log(matchCat)
-                    backgroundColor = [];
+                    backgroundColor1 = [];
+                    backgroundColor2 = [];
                     for (let i = 0; i < sorted_View.length; i++) {
                         if (Cat_Key1[i]==matchCat) {
-                            backgroundColor.push('rgba(58, 39, 245, 0.8)')
+                            backgroundColor1.push('rgba(58, 39, 245, 0.8)'),
+                            backgroundColor2.push('rgba(58, 39, 245, 0.8)')
                         }
                         else {
-                            backgroundColor.push('rgba(39, 221, 245, 0.8)')
+                            backgroundColor1.push('rgba(39, 221, 245, 0.8)'),
+                            backgroundColor2.push('rgba(58, 39, 245, 0.8)')
                         }
                     }
-                    console.log(backgroundColor)
+                    console.log(backgroundColor2)
 
                     const ctx = document.getElementById('myChart'); 
                     if (window.chart0) {
@@ -164,8 +154,17 @@ function createPieChart(data) {
                                 label: 'Views Tendency',
                                 data: dataset1,
                                 borderWidth: 1,
-                                backgroundColor: backgroundColor
-                            }]
+                                backgroundColor: backgroundColor1,
+                                order:2
+                                },{
+                                label: 'Likes Tendency',
+                                data: dataset2,
+                                borderWidth: 1,
+                                backgroundColor: 'rgba(245, 106, 39, 0.8)',
+                                borderColor: 'rgba(230, 39, 245, 0.8)',
+                                type: 'line',
+                                order:1
+                                }]
                             },
                             options: {
                             scales: {
@@ -175,7 +174,6 @@ function createPieChart(data) {
                             }
                         }
                     });
-
                 });
     });
 }
