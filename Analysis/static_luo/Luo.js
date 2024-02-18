@@ -1,3 +1,4 @@
+
 function filterDropDown(button, dropdown, input, items) {
     //Create dropdown items from a list of items
     for (let i=0; i<items.length; i++) {
@@ -52,6 +53,7 @@ fetch('../../Resources/output.json')
             let item = d3.select(this).attr("value");
             console.log(item);
             createInfo(item)
+            createPieChart(item)
         });
     })
 
@@ -73,39 +75,107 @@ function createInfo(data) {
             };
     })
 }
-    
-fetch('../../Resources/AI_Influencer_200.json')
-        .then((response) => response.json())
-        .then((jsonData) => {
-            let name = jsonData.Name;
-            let CAT = jsonData.Lifestyle;
-            let Name = [];
-            let jointData = [];
-            for (let [key, value] of Object.entries(jsonData.Name)) {
-                Name.push(value)
-            };
-            for (let i = 0; i < Name.length; i++) {
-                jointData.push({Name:name[i],Category:CAT[i]})
-            }     
-            console.log(jointData)       
-    });
-
 
 function createPieChart(data) {
+    //data engineering 1
     fetch('../../Resources/AI_Influencer_200.json')
         .then((response) => response.json())
         .then((jsonData) => {
             //Re-arrange Data
             let name = jsonData.Name;
             let CAT = jsonData.Lifestyle;
-            let Name = [];
+            let temp1 = [];
             let jointData = [];
             for (let [key, value] of Object.entries(jsonData.Name)) {
-                Name.push(value)
+                temp1.push(value)
             };
-            for (let i = 0; i < Name.length; i++) {
+            for (let i = 0; i < temp1.length; i++) {
                 jointData.push({Name:name[i],Category:CAT[i]})
-            }     
-            console.log(jointData) 
+            };
+            //data engineering 2
+            fetch('../../Resources/Category_Summary.json')
+                .then((response) => response.json())
+                .then((jsonData2) => {
+                    let CAT2 = jsonData2.Category;
+                    let CATview = jsonData2.Average_view;
+                    let CATlike = jsonData2.Average_likes;
+                    let temp2 = [];
+                    let jointData2 = [];
+                    for (let [key, value] of Object.entries(jsonData2.Category)) {
+                        temp2.push(value)
+                    };
+                    for (let i = 0; i < temp2.length; i++) {
+                        jointData2.push({Category:CAT2[i],Views_Ratio:CATview[i],Likes_Ratio:CATlike[i]})
+                    };
+                    sorted_View = jointData2.sort(function(a,b){
+                        return b.Views_Ratio - a.Views_Ratio
+                    });
+
+                    //create first bar chart
+                    Cat_Key1 = [];
+                    dataset1 = [];
+                    for (let i = 0; i < sorted_View.length; i++) {
+                        Cat_Key1.push(sorted_View[i].Category),
+                        dataset1.push(sorted_View[i].Views_Ratio)
+                    };
+                    
+                    console.log(sorted_View);
+                    console.log(dataset1);                
+
+                    //create second bar chart
+                    Cat_Key2 = [];
+                    dataset2 = [];
+                    sorted_Like = jointData2.sort(function(a,b){
+                        return b.Likes_Ratio - a.Likes_Ratio
+                    });
+                    for (let i = 0; i < sorted_View.length; i++) {
+                        Cat_Key2.push(sorted_Like[i].Category)
+                    };
+                    for (let i = 0; i < sorted_View.length; i++) {
+                        dataset2.push(sorted_Like[i].Likes_Ratio)
+                    };
+                    console.log(Cat_Key2);
+                    console.log(dataset2);
+
+                    //Create chart with chart.js
+                    let matchCat = jointData.filter(i=>i.Name==data)[0].Category;
+                    console.log(matchCat)
+                    backgroundColor = [];
+                    for (let i = 0; i < sorted_View.length; i++) {
+                        if (Cat_Key1[i]==matchCat) {
+                            backgroundColor.push('rgba(58, 39, 245, 0.8)')
+                        }
+                        else {
+                            backgroundColor.push('rgba(39, 221, 245, 0.8)')
+                        }
+                    }
+                    console.log(backgroundColor)
+
+                    const ctx = document.getElementById('myChart'); 
+                    if (window.chart0) {
+                        // If it exists, destroy it
+                        window.chart0.destroy();
+                    }
+                        window.chart0 = new Chart(ctx, {
+                            type: 'bar',
+                            data: {
+                            labels: Cat_Key1,
+                            datasets: [{
+                                label: 'Views Tendency',
+                                data: dataset1,
+                                borderWidth: 1,
+                                backgroundColor: backgroundColor
+                            }]
+                            },
+                            options: {
+                            scales: {
+                                y: {
+                                beginAtZero: true
+                                }
+                            }
+                        }
+                    });
+
+                });
     });
 }
