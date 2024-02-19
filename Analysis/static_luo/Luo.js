@@ -34,7 +34,7 @@ function filterDropDown(button, dropdown, input, items) {
 }
 
 
-fetch('../../Resources/output.json')
+fetch('../../Resources/AI_Data_All.json')
     .then((response) => response.json())
     .then((jsonData) => {
         dataSet = jsonData.slice(0,200);
@@ -58,7 +58,7 @@ fetch('../../Resources/output.json')
     })
 
 function createInfo(data) {
-    fetch('../../Resources/output.json')
+    fetch('../../Resources/AI_Data_All.json')
         .then((response) => response.json())
         .then((jsonData) => {
             dataSet = jsonData.slice(0,200);
@@ -78,7 +78,7 @@ function createInfo(data) {
 
 function createPieChart(data) {
     //data engineering 1
-    fetch('../../Resources/AI_Influencer_200.json')
+    fetch('../../Resources/output/AI_Influencer_200.json')
         .then((response) => response.json())
         .then((jsonData) => {
             //Re-arrange Data
@@ -93,7 +93,7 @@ function createPieChart(data) {
                 jointData.push({Name:name[i],Category:CAT[i]})
             };
             //data engineering 2
-            fetch('../../Resources/Category_Summary.json')
+            fetch('../../Resources/output/Category_Summary.json')
                 .then((response) => response.json())
                 .then((jsonData2) => {
                     let CAT2 = jsonData2.Category;
@@ -111,7 +111,7 @@ function createPieChart(data) {
                         return b.Views_Ratio - a.Views_Ratio
                     });
 
-                    //create first bar chart
+                    //Create data for chart
                     Cat_Key1 = [];
                     dataset1 = [];
                     dataset2 = [];
