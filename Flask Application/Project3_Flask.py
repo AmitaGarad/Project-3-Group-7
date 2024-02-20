@@ -31,6 +31,10 @@ def index():
 def index():
     return render_template('Amita.html')
 
+@app.route('/Amita2')
+def index():
+    return render_template('Amita2.html')
+
 @app.route('/Sonya')
 def index():
     return 'Sonya'
@@ -72,6 +76,13 @@ def get_youtuber_data():
     # Convert the DataFrame to a JSON format
     data = df.to_dict(orient='records')
     return jsonify(data)
+
+@app.route('/Amita_data')
+def data():
+    df_youtube = pd.read_csv('./Resources/Dec_clean_data_v2.csv')  # Adjust path as necessary
+    country_counts = df_youtube['Country'].value_counts().reset_index()
+    country_counts.columns = ['Country', 'Count']
+    return jsonify(country_counts.to_dict(orient='records'))
 
 if __name__ == '__main__':
     app.run(debug=True)
