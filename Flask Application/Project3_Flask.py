@@ -1,6 +1,9 @@
 from flask import Flask, render_template, jsonify
 import json
 from collections import OrderedDict
+import pandas as pd
+
+df = pd.read_csv('./Resources/top_10_nov_dec.csv')
 
 #################################################
 # Flask Setup
@@ -26,7 +29,7 @@ def index():
 
 @app.route('/Amita')
 def index():
-    return 'Amita'
+    return render_template('Amita.html')
 
 @app.route('/Sonya')
 def index():
@@ -62,6 +65,12 @@ def get_data4():
     # Load data from JSON file and return as JSON response
     with open('static/Resources/AI_subset_200.jsonl', 'r') as f:
         data = json.load(f)
+    return jsonify(data)
+
+@app.route('/get_youtuber_data')
+def get_youtuber_data():
+    # Convert the DataFrame to a JSON format
+    data = df.to_dict(orient='records')
     return jsonify(data)
 
 if __name__ == '__main__':
