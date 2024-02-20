@@ -22,7 +22,7 @@ def index():
 
 @app.route('/Judith')
 def index():
-    return 'Judith'
+    return render_template('Judith.html')
 
 @app.route('/Amita')
 def index():
@@ -54,6 +54,13 @@ def get_data2():
 def get_data3():
     # Load data from JSON file and return as JSON response
     with open('static/Resources/Category_Summary.json', 'r') as f:
+        data = json.load(f)
+    return jsonify(data)
+
+@app.route('/Judith_Data')
+def get_data4():
+    # Load data from JSON file and return as JSON response
+    with open('static/Resources/AI_subset_200.jsonl', 'r') as f:
         data = json.load(f)
     return jsonify(data)
 
