@@ -16,7 +16,23 @@ app.json.sort_keys = False
 def welcome():
     return render_template('Home.html')
 
-@app.route('/part1')
+@app.route('/Claire')
+def index():
+    return render_template('xx.html')
+
+@app.route('/Judith')
+def index():
+    return render_template('xx.html')
+
+@app.route('/Amita')
+def index():
+    return render_template('xx.html')
+
+@app.route('/Sonya')
+def index():
+    return render_template('xx.html')
+
+@app.route('/Luo')
 def index():
     return render_template('Luo.html')
 
