@@ -1,5 +1,5 @@
 // Read in data using D3
-d3.csv('../../Resources/Nov_clean_data_v2.csv').then(data => {
+d3.csv('../../Resources/Sept_clean_data_v2.csv').then(data => {
     let countryCounts = {};
     console.log(data);
 
@@ -51,7 +51,7 @@ d3.csv('../../Resources/Nov_clean_data_v2.csv').then(data => {
 // Define layout for the bar graph
 const layout = {
     title: {
-        text: 'Youtube Influencer Count Per Country - November 2022',
+        text: 'Youtube Influencer Count Per Country - September 2022',
         font: {
             size: 22
         }
