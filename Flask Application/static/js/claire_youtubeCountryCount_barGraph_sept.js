@@ -1,5 +1,9 @@
 // Read in data using D3
+<<<<<<< HEAD:static/js/claire_youtubeCountryCount_barGraph_sept.js
+d3.csv('sept_data').then(data => {
+=======
 d3.csv('../../Resources/Sept_clean_data_v2.csv').then(data => {
+>>>>>>> 0379980c3cf19d390bb94e1a1d0837e531838709:Flask Application/static/js/claire_youtubeCountryCount_barGraph_sept.js
     let countryCounts = {};
     console.log(data);
 

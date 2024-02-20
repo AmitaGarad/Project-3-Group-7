@@ -19,28 +19,44 @@ app.json.sort_keys = False
 def welcome():
     return render_template('Home.html')
 
-@app.route('/Claire')
+@app.route('/YouTube - Sept 2022')
 def index():
-    return 'Claire'
+    return render_template('claire_youtube_barchart_map_v2_sept.html')
+
+@app.route('/YouTube - Nov 2022')
+def index1():
+    return render_template('claire_youtube_barchart_map_v2_nov.html')
+
+@app.route('/YouTube - Dec 2022')
+def index2():
+    return render_template('claire_youtube_barchart_map_v2_dec.html')
+
+@app.route('/Claire')
+def index3():
+    return render_template('claire_geoplotting_AI.html')
 
 @app.route('/Judith')
-def index():
+def index5():
     return render_template('Judith.html')
 
 @app.route('/Amita')
-def index():
+def index6():
     return render_template('Amita.html')
 
 @app.route('/Amita2')
+<<<<<<< HEAD:Project3_Flask.py
+def index7():
+=======
 def index():
+>>>>>>> 0379980c3cf19d390bb94e1a1d0837e531838709:Flask Application/Project3_Flask.py
     return render_template('Amita2.html')
 
 @app.route('/Sonya')
-def index():
+def index8():
     return 'Sonya'
 
 @app.route('/Luo')
-def index():
+def index9():
     return render_template('Luo.html')
 
 @app.route('/AI_Info')
@@ -79,7 +95,11 @@ def get_youtuber_data():
 
 @app.route('/Amita_data')
 def data():
+<<<<<<< HEAD:Project3_Flask.py
+    df_youtube = pd.read_csv('./Resources/Dec_clean_data_v2.csv')
+=======
     df_youtube = pd.read_csv('./Resources/Dec_clean_data_v2.csv')  # Adjust path as necessary
+>>>>>>> 0379980c3cf19d390bb94e1a1d0837e531838709:Flask Application/Project3_Flask.py
     country_counts = df_youtube['Country'].value_counts().reset_index()
     country_counts.columns = ['Country', 'Count']
     return jsonify(country_counts.to_dict(orient='records'))
