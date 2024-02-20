@@ -18,19 +18,19 @@ def welcome():
 
 @app.route('/Claire')
 def index():
-    return render_template('xx.html')
+    return 'Claire'
 
 @app.route('/Judith')
 def index():
-    return render_template('xx.html')
+    return 'Judith'
 
 @app.route('/Amita')
 def index():
-    return render_template('xx.html')
+    return 'Amita'
 
 @app.route('/Sonya')
 def index():
-    return render_template('xx.html')
+    return 'Sonya'
 
 @app.route('/Luo')
 def index():
