@@ -50,22 +50,34 @@ d3.csv('../../Resources/Dec_clean_data_v2.csv').then(data => {
 
 // Define layout for the bar graph
 const layout = {
-    title: 'Youtube Influencer Count Per Country - December 2022',
+    title: {
+        text: 'Youtube Influencer Count Per Country - December 2022',
+        font: {
+            size: 22
+        }
+    },
     xaxis: {
-        title: 'Country',
+        title: {
+            text: 'Country',
+            font: {
+                size: 18
+            }
+        },
         tickangle: -45,
         automargin: true
     },
     yaxis: {
-        title: 'Count',
+        title: {
+            text: 'Count',
+            font: {
+                size: 18
+            }
+        },
         automargin: true
     },
     // Adjust the width and height of the plot
-    width: 700, // Adjust the value as needed
-    height: 500, // Adjust the value as needed
-    margin: {
-        l: 100 // Increase the left margin to make room for the y-axis labels
-    }
+    width: 1000,
+    height: 700
 };
 
 // Plot the bar graph
