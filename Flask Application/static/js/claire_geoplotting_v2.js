@@ -54,11 +54,7 @@ const getLocationCoordinates = async (locationName, count) => {
     }
 };
 // Collect AI Influencer Data
-<<<<<<< HEAD:static/js/claire_geoplotting_v2.js
 fetch('/Subset_AI_Data')
-=======
-fetch('/Judith_Data')
->>>>>>> 0379980c3cf19d390bb94e1a1d0837e531838709:Flask Application/static/js/claire_geoplotting_v2.js
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');

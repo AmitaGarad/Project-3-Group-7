@@ -43,11 +43,7 @@ const getLocationCoordinates = async (locationName, count) => {
 };
 
 // Collect Dec_clean_data
-<<<<<<< HEAD:static/js/claire_geoplotting_youtube_v2_dec_multi.js
 d3.csv('/dec_data').then(data => {
-=======
-d3.csv('/YouTube - Dec 2022').then(data => {
->>>>>>> 0379980c3cf19d390bb94e1a1d0837e531838709:Flask Application/static/js/claire_geoplotting_youtube_v2_dec_multi.js
     console.log(data);
 
     // Create a new marker cluster group
