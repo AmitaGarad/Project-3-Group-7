@@ -1,5 +1,5 @@
 from flask import Flask, render_template, jsonify
-import json, jsonlines
+import json
 from collections import OrderedDict
 import pandas as pd
 

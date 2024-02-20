@@ -19,7 +19,7 @@ fetch('/Amita_data')
         colorbar: { title: 'Number of Influencers' }
       }],
       layout: {
-        title: 'YouTube Influencers Distribution by Country',
+        title: 'Influencers count by Country',
         geo: {
           projection: { type: "natural earth" },
           bgcolor: 'black'  // Set the background color of the map to black
