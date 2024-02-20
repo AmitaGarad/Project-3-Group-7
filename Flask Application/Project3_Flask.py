@@ -64,10 +64,10 @@ def get_data3():
         data = json.load(f)
     return jsonify(data)
 
-@app.route('/Judith_Data')
+@app.route('/Subset_AI_Data')
 def get_data4():
     # Load data from JSON file and return as JSON response
-    with open('static/Resources/AI_subset_200.jsonl', 'r') as f:
+    with open('static/Resources/subset_AI.json', 'r') as f:
         data = json.load(f)
     return jsonify(data)
 
