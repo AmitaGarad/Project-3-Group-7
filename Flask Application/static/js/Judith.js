@@ -1,5 +1,5 @@
   // calling the json file to get the data
-  fetch('subset_AI.json')
+  fetch('/Subset_AI_Data')
   .then(response => response.json())
   .then(data => {
     // collecting the specific elements that i want to display
@@ -64,7 +64,7 @@
   });
   
    // calling the json file to get the data
-  fetch('subset_AI.json')
+  fetch('/Subset_AI_Data')
   .then(response => response.json())
   .then(data => {
     //going into the dataset once again and grabbing specific elements
