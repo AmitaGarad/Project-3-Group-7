@@ -46,7 +46,7 @@
         },
       },
     //adjusting the display size so it can fit the page 
-      width: 1000,  
+      width: 1200,  
       height: 600,  
       autosize: false,  
       margin: {  
@@ -94,7 +94,16 @@
       title: 'MBTI Personality vs Education Level',
       xaxis: { title: 'Education Level' },
       yaxis: { title: 'Count' },
-      barmode: 'stack' 
+      barmode: 'stack', 
+      width: 1200,  
+      height: 600,  
+      autosize: false,  
+      margin: {  
+        l: 100,
+        r: 100,
+        b: 100,
+        t: 100,
+      }
     };
   
     // plotting the graph, adding the layers of the graph and referencing the html
