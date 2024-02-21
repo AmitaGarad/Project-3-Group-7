@@ -1,0 +1,999 @@
+s.no,Youtube_channel,Youtuber_name,Category,Subscribers,Country,Average_view,Average_likes,Average_comments,Sub-category,Date
+1,tseries,T-Series,Music & Dance,229500000.0,India,103800.0,2800.0,158.0,Other,11/28/2022
+2,checkgate,Cocomelon - Nursery Rhymes,Education,146600000.0,Unknown,9500000.0,48300.0,0.0,Other,11/19/2022
+3,PewDiePie,PewDiePie,Animation,111600000.0,United States,1400000.0,110700.0,7800.0,Other,11/7/2022
+4,MrBeast6000,MrBeast,Video games,109100000.0,United States,38400000.0,3100000.0,56700.0,Humor,11/27/2022
+5,✿ Kids Diana Show,✿ Kids Diana Show,Animation,102500000.0,Unknown,2400000.0,15700.0,0.0,Toys,11/2/2022
+6,Like Nastya,Like Nastya,Toys,102400000.0,Unknown,4400000.0,21100.0,0.0,Other,11/9/2022
+7,WWEFanNation,WWE,Video games,91800000.0,United States,144900.0,5100.0,207.0,Other,11/7/2022
+8,zeemusiccompany,Zee Music Company,Music & Dance,89700000.0,India,89600.0,2400.0,91.0,Other,11/9/2022
+9,Vlad and Niki,Vlad and Niki,Animation,89100000.0,Unknown,8800000.0,36100.0,0.0,Toys,11/25/2022
+10,BLACKPINK,BLACKPINK,Music & Dance,82800000.0,United States,1800000.0,297300.0,4500.0,Other,11/23/2022
+11,GoldminesTelefilms,Goldmines,Other,78300000.0,India,54200.0,839.0,31.0,Other,11/26/2022
+12,5-Minute Crafts,5-Minute Crafts,Other,77900000.0,India,236200.0,1500.0,57.0,Other,11/11/2022
+13,sabtv,Sony SAB,Movies,73900000.0,India,45600.0,757.0,18.0,Animation,11/28/2022
+14,BANGTANTV,BANGTANTV,Music & Dance,71700000.0,India,1700000.0,398800.0,8800.0,Other,11/29/2022
+15,ibighit,HYBE LABELS,Music & Dance,68800000.0,United States,2900000.0,179600.0,3900.0,Other,11/16/2022
+16,CanalKondZilla,Canal KondZilla,Music & Dance,66099999.99999999,Brazil,35300.0,1500.0,64.0,Other,11/25/2022
+17,zeetv,Zee TV,Other,64200000.0,India,8900.0,80.0,2.0,Other,11/4/2022
+18,filmigaane,Shemaroo Filmi Gaane,Music & Dance,62600000.0,India,15200.0,172.0,7.0,Other,11/17/2022
+19,SmartBooksMedia,Pinkfong Baby Shark - Kids' Songs & Stories,Animation,61800000.0,Unknown,594400.0,1300.0,0.0,Toys,11/4/2022
+20,ChuChu TV Nursery Rhymes & Kids Songs,ChuChu TV Nursery Rhymes & Kids Songs,Toys,59700000.0,Unknown,147000.0,855.0,0.0,Other,11/29/2022
+21,corycotton,Dude Perfect,Video games,58400000.0,United States,6400000.0,250500.0,9500.0,Other,11/24/2022
+22,movieclips,Movieclips,Movies,58100000.0,United States,9200.0,142.0,13.0,Animation,11/24/2022
+23,colorstv,Colors TV,Other,57600000.0,India,6700.0,73.0,2.0,Other,11/23/2022
+24,Marshmello,Marshmello,Music & Dance,56100000.0,United States,1700000.0,88500.0,4500.0,Other,11/30/2022
+25,tseriesbhakti,T-Series Bhakti Sagar,Music & Dance,55500000.0,India,51200.0,1300.0,52.0,Other,11/16/2022
+26,BHOJPURIWAVE,Wave Music,Music & Dance,54700000.0,Unknown,71200.0,2100.0,86.0,Other,11/27/2022
+27,aajtaktv,Aaj Tak,News & Politics,54400000.0,India,4200.0,65.0,4.0,Other,11/22/2022
+28,sonymusicindiaSME,Sony Music India,Music & Dance,54300000.0,India,130900.0,2800.0,135.0,Other,11/3/2022
+29,ReinoMariaElenaWalsh,El Reino Infantil,Music & Dance,53500000.0,Unknown,43500.0,255.0,0.0,Other,11/15/2022
+30,EdSheeran,Ed Sheeran,Music & Dance,52600000.0,United States,222600.0,11100.0,790.0,Other,11/18/2022
+31,LooLooKids,LooLoo Kids - Nursery Rhymes and Children's Songs,Music & Dance,51200000.0,United States,332000.0,5500.0,0.0,Other,11/13/2022
+32,taylorswift,Taylor Swift,Music & Dance,49600000.0,United States,3500000.0,102100.0,1700.0,Other,11/17/2022
+33,yrf,YRF,Music & Dance,49100000.0,India,58900.0,2400.0,29.0,Movies,11/26/2022
+34,BillionSurpriseToys - English Kids Songs & Cartoon,BillionSurpriseToys - English Kids Songs & Cartoon,Toys,47800000.0,Unknown,273000.0,0.0,0.0,Other,11/28/2022
+35,infobellshindirhymes,Infobells - Hindi,Education,47400000.0,Unknown,264600.0,1300.0,0.0,Other,11/22/2022
+36,JuegaGerman,JuegaGerman,Movies,46600000.0,Mexico,874000.0,85900.0,3000.0,Animation,11/17/2022
+37,Badabun,Badabun,Other,46000000.0,Mexico,8500.0,394.0,7.0,Other,11/2/2022
+38,felipeneto,Felipe Neto,Other,44700000.0,Brazil,1100000.0,112400.0,2300.0,Other,11/22/2022
+39,BRIGHT SIDE,BRIGHT SIDE,Animation,44200000.0,United States,43100.0,1100.0,77.0,Other,11/15/2022
+40,sonymusicindiaVEVO,SonyMusicIndiaVEVO,Music & Dance,43900000.0,India,59400.0,1500.0,51.0,Other,11/17/2022
+41,vcsabiavideos,Você Sabia?,Other,43800000.0,Brazil,459200.0,58700.0,1100.0,Other,11/7/2022
+42,KatyPerryMusic,Katy Perry,Music & Dance,43500000.0,Unknown,84400.0,8200.0,871.0,Other,11/17/2022
+43,DjWalkzz,Alan Walker,Music & Dance,42700000.0,United States,104500.0,9900.0,477.0,Movies,11/24/2022
+44,A4,A4,Animation,42500000.0,Russia,11200000.0,404500.0,27100.0,Humor,11/1/2022
+45,getmovies,Get Movies,Other,42400000.0,Unknown,91400.0,462.0,0.0,Other,11/8/2022
+46,ShemarooEnt,Shemaroo,Other,42300000.0,India,47400.0,439.0,13.0,Other,11/27/2022
+47,Like Nastya Show,Like Nastya Show,Animation,41700000.0,Unknown,126800.0,754.0,0.0,Toys,11/27/2022
+48,ABSCBNOnline,ABS-CBN Entertainment,Other,41500000.0,Philippines,1400.0,19.0,1.0,Other,11/25/2022
+49,speedrecordss,Speed Records,Music & Dance,41500000.0,India,23500.0,1200.0,57.0,Other,11/5/2022
+50,Voot Kids,Voot Kids,Movies,40900000.0,Unknown,752500.0,7100.0,0.0,Animation,11/21/2022
+51,LittleBabyBum,Little Baby Bum - Nursery Rhymes & Kids Songs,Animation,40100000.0,Unknown,88000.0,175.0,0.0,Toys,11/28/2022
+52,MashaMedvedTV,Маша и Медведь,Education,39700000.0,Unknown,1600000.0,9000.0,0.0,Other,11/28/2022
+53,LuisitoComunicaa,Luisito Comunica,Other,39500000.0,Mexico,2000000.0,67300.0,2600.0,Other,11/17/2022
+54,venus,Ishtar Music,Music & Dance,38700000.0,India,35700.0,941.0,13.0,Other,11/28/2022
+55,Kimberly Loaiza,Kimberly Loaiza,Daily vlogs,38500000.0,Mexico,5400000.0,368500.0,20000.0,Other,11/24/2022
+56,shakira,Shakira,Other,38500000.0,United States,384300.0,20500.0,462.0,Other,11/20/2022
+57,luccasneto,LUCCAS NETO - LUCCAS TOON,Movies,38400000.0,Brazil,405600.0,8600.0,0.0,Animation,11/1/2022
+58,TheEllenShow,TheEllenShow,Other,38300000.0,United States,7700.0,229.0,18.0,Other,11/23/2022
+59,XXXTENTACION,XXXTENTACION,Music & Dance,38100000.0,United States,812500.0,103300.0,8100.0,Other,11/18/2022
+60,gr6explode,GR6 EXPLODE,Music & Dance,38100000.0,Brazil,536800.0,27000.0,375.0,Other,11/22/2022
+61,WorkpointOfficial,WorkpointOfficial,Other,37700000.0,Thailand,8400.0,116.0,5.0,Other,11/6/2022
+62,Toys and Colors,Toys and Colors,Movies,37400000.0,Unknown,505900.0,1700.0,0.0,Toys,11/14/2022
+63,AddictedA1,CarryMinati,Movies,37300000.0,India,14700000.0,2700000.0,110000.0,Humor,11/26/2022
+64,DaddyYankeeOFFTV,Daddy Yankee,Music & Dance,37300000.0,Colombia,60900.0,5100.0,97.0,Other,11/22/2022
+65,MashaBearEN,Masha and The Bear,Animation,36800000.0,Unknown,1500000.0,8900.0,0.0,Toys,11/23/2022
+66,shfa2 - شفا,shfa2 - شفا,Daily vlogs,36800000.0,Unknown,800200.0,7300.0,0.0,Other,11/26/2022
+67,TEDxTalks,TEDx Talks,Other,36700000.0,United States,271.0,6.0,1.0,Other,11/10/2022
+68,shfa,shfa,Daily vlogs,36400000.0,France,2600000.0,41800.0,0.0,Other,11/15/2022
+69,SuperSimpleSongs,Super Simple Songs - Kids Songs,Music & Dance,36300000.0,Unknown,1900000.0,3400.0,0.0,Other,11/24/2022
+70,Jkk Entertainment,Jkk Entertainment,Other,36300000.0,India,2400000.0,19900.0,317.0,Other,11/2/2022
+71,ARY Digital HD,ARY Digital HD,Other,35900000.0,Pakistan,10100.0,107.0,4.0,Other,11/2/2022
+72,Mikecrack,Mikecrack,Movies,35700000.0,Mexico,932800.0,76600.0,1500.0,Animation,11/22/2022
+73,Ozuna,Ozuna,Music & Dance,35600000.0,United States,24600000.0,141700.0,2400.0,Other,11/18/2022
+74,gmmonetv,ช่อง one31,Other,35500000.0,Thailand,4300.0,97.0,1.0,Other,11/24/2022
+75,Goldmines Gaane Sune Ansune,Goldmines Gaane Sune Ansune,Music & Dance,35500000.0,India,33900.0,298.0,12.0,Other,11/19/2022
+76,Like Nastya ESP,Like Nastya ESP,Other,34800000.0,Unknown,336600.0,1800.0,0.0,Other,11/26/2022
+77,harpalgeo,HAR PAL GEO,Other,34600000.0,Pakistan,10300.0,88.0,1.0,Other,11/30/2022
+78,UltraHindi,Ultra Bollywood,Other,34500000.0,India,35900.0,259.0,7.0,Other,11/6/2022
+79,Maria Clara & JP,Maria Clara & JP,Other,34400000.0,Unknown,1800000.0,18100.0,0.0,Other,11/6/2022
+80,YouTube,YouTube,Other,34000000.0,United States,25400.0,1200.0,0.0,Other,11/15/2022
+81,markiplierGAME,Markiplier,Animation,34000000.0,United States,2600000.0,164600.0,9200.0,Video games,11/26/2022
+82,Total Gaming,Total Gaming,Other,34000000.0,India,578100.0,65900.0,3000.0,Other,11/24/2022
+83,abpnewstv,ABP NEWS,News & Politics,34000000.0,India,2300.0,36.0,2.0,Other,11/9/2022
+84,sonypalindia,Sony PAL,Other,34000000.0,India,9000.0,110.0,6.0,Other,11/1/2022
+85,Ryan's World,Ryan's World,Animation,33700000.0,Unknown,442000.0,1800.0,0.0,Toys,11/5/2022
+86,vegetta777,VEGETTA777,Video games,33600000.0,Mexico,223400.0,22200.0,356.0,Other,11/27/2022
+87,Geet MP3,Geet MP3,Music & Dance,33299999.999999996,India,1600000.0,46100.0,3600.0,Other,11/26/2022
+88,tseriesapnapunjab,T-Series Apna Punjab,Music & Dance,33200000.000000004,India,22600.0,1000.0,28.0,Other,11/8/2022
+89,NoCopyrightSounds,NoCopyrightSounds,Music & Dance,33000000.0,United States,336400.0,12900.0,786.0,Other,11/15/2022
+90,IndiaTV,IndiaTV,News & Politics,33000000.0,India,9500.0,167.0,10.0,Other,11/4/2022
+91,SSSniperWolf,SSSniperWolf,Humor,33000000.0,United States,2700000.0,76700.0,4600.0,Other,11/23/2022
+92,KHANDESHI MOVIES,KHANDESHI MOVIES,Other,32600000.0,India,3700000.0,33900.0,459.0,Other,11/6/2022
+93,cancionesdelagranja,La Granja de Zenón,Music & Dance,32500000.0,Unknown,286700.0,1300.0,0.0,Animation,11/7/2022
+94,tseriesoldisgold,Bollywood Classics,Music & Dance,31900000.0,India,178500.0,1600.0,37.0,Other,11/22/2022
+95,erosentertainment,Eros Now Music,Other,31700000.0,India,16900.0,561.0,15.0,Other,11/9/2022
+96,SelGomez,Selena Gomez,Other,31600000.0,United States,1400000.0,162900.0,8100.0,Other,11/30/2022
+97,GENIAL,GENIAL,Animation,31600000.0,Mexico,33000.0,1100.0,37.0,Other,11/15/2022
+98,juptube,Galinha Pintadinha,Music & Dance,31600000.0,Unknown,7300000.0,30700.0,0.0,Other,11/1/2022
+99,MrBean,Mr Bean,Other,31200000.0,India,134800.0,2000.0,68.0,Other,11/25/2022
+100,Luis Fonsi,Luis Fonsi,Other,31200000.0,United States,38500.0,2100.0,78.0,Other,11/23/2022
+101,rajshri,Rajshri,Other,31200000.0,India,17300.0,166.0,5.0,Other,11/23/2022
+102,Vlad và Nikita,Vlad và Nikita,Movies,31100000.0,Unknown,2500000.0,11600.0,0.0,Humor,11/12/2022
+103,SMTOWN,SMTOWN,Music & Dance,31000000.0,United States,359100.0,36500.0,1100.0,Other,11/14/2022
+104,SongsOfIndianCinema,Saregama Music,Music & Dance,31000000.0,India,16000.0,547.0,19.0,Other,11/3/2022
+105,DisneyMusicVEVO,DisneyMusicVEVO,Music & Dance,30800000.0,United States,125500.0,4700.0,245.0,Movies,11/29/2022
+106,Ricis Official,Ricis Official,Music & Dance,30600000.0,Indonesia,556700.0,24900.0,726.0,Movies,11/11/2022
+107,AllTrapNation,Trap Nation,Music & Dance,30600000.0,United States,45000.0,1900.0,77.0,Other,11/27/2022
+108,PowerKids,PowerKids TV,Movies,30600000.0,India,106900.0,0.0,0.0,Animation,11/15/2022
+109,latenight,The Tonight Show Starring Jimmy Fallon,Movies,30400000.0,United States,78500.0,2500.0,66.0,Humor,11/6/2022
+110,BabyBus - Kids Songs and Cartoons,BabyBus - Kids Songs and Cartoons,Animation,30200000.0,Unknown,740500.0,2200.0,0.0,Toys,11/27/2022
+111,rezendeevil,rezendeevil,Movies,30200000.0,Brazil,274900.0,17700.0,416.0,Humor,11/16/2022
+112,AH,AH,Music & Dance,30100000.0,Indonesia,616400.0,29700.0,2200.0,Movies,11/26/2022
+113,xoxxxoooxo,The Weeknd,Music & Dance,30000000.0,United States,421000.0,29600.0,1500.0,Other,11/3/2022
+114,SpinninRec,Spinnin' Records,Music & Dance,29800000.0,United States,33600.0,1700.0,53.0,Other,11/7/2022
+115,Techno Gamerz,Techno Gamerz,Other,29700000.0,India,4800000.0,295600.0,17300.0,Other,11/11/2022
+116,WWRBhojpuri,Worldwide Records Bhojpuri,Music & Dance,29600000.0,India,43300.0,2000.0,61.0,Other,11/26/2022
+117,ImagineDragons,ImagineDragons,Music & Dance,29400000.0,United States,85800.0,9300.0,119.0,Other,11/29/2022
+118,MrBeast Gaming,MrBeast Gaming,Animation,29300000.0,United States,6600000.0,325900.0,11200.0,Video games,11/14/2022
+119,adelelondon,Adele,Other,29200000.0,United States,0.0,0.0,0.0,Other,11/22/2022
+120,theofficialpeppa,Peppa Pig - Official Channel,Toys,29000000.0,Unknown,216000.0,770.0,0.0,Other,11/2/2022
+121,Wow Kidz,Wow Kidz,Animation,29000000.0,Unknown,129800.00000000001,1300.0,0.0,Humor,11/6/2022
+122,UltraRecords,Ultra Records,Music & Dance,29000000.0,United States,18100.0,703.0,25.0,Other,11/24/2022
+123,Maluma,Maluma,Music & Dance,29000000.0,Colombia,3900000.0,97100.0,3000.0,Other,11/26/2022
+124,MR. INDIAN HACKER,MR. INDIAN HACKER,Other,28900000.0,India,2600000.0,285000.0,10500.0,Other,11/24/2022
+125,jacksepticeye,jacksepticeye,Video games,28800000.0,United States,1200000.0,68400.0,3900.0,Other,11/13/2022
+126,GMANETWORK,GMANetwork,Other,28800000.0,Philippines,3500.0,97.0,1.0,Other,11/18/2022
+127,DONA 도나,DONA 도나,Other,28800000.0,United States,1100000.0,7600.0,183.0,Other,11/20/2022
+128,toyoraljanahtv,قناة طيور الجنة | toyoraljanahtv,Music & Dance,28600000.0,Unknown,136800.0,0.0,0.0,Other,11/12/2022
+129,TalkingTomCat,Talking Tom,Other,28400000.0,United States,1600000.0,9900.0,0.0,Other,11/23/2022
+130,Little Angel: Nursery Rhymes & Kids Songs,Little Angel: Nursery Rhymes & Kids Songs,Toys,28400000.0,Unknown,527200.0,2000.0,0.0,Other,11/10/2022
+131,Genevieve's Playhouse - Learning Videos for Kids,Genevieve's Playhouse - Learning Videos for Kids,Toys,28400000.0,Unknown,1600000.0,2700.0,0.0,Other,11/7/2022
+132,TheLateLateShow,The Late Late Show with James Corden,Animation,28000000.0,United States,43200.0,817.0,63.0,Humor,11/12/2022
+133,zeenews,Zee News,News & Politics,27800000.0,India,8400.0,207.0,9.0,Other,11/15/2022
+134,व्लाद और निकिता,व्लाद और निकिता,Other,27600000.0,Unknown,278300.0,2200.0,0.0,Other,11/28/2022
+135,TheDonato,TheDonato,Other,27600000.0,Mexico,277500.0,33000.0,292.0,Other,11/24/2022
+136,TwiNboTzVids,Lucas and Marcus,Animation,27500000.0,United States,788400.0,24300.0,1400.0,Humor,11/16/2022
+137,Diana and Roma ESP,Diana and Roma ESP,Animation,27400000.0,Unknown,1000000.0,4200.0,0.0,Other,11/25/2022
+138,infobellstamil,infobells - Tamil,Education,27400000.0,Unknown,598400.0,3300.0,0.0,Other,11/1/2022
+139,AboFlah,AboFlah,Animation,27200000.0,Iraq,2600000.0,371800.0,11100.0,Video games,11/1/2022
+140,DrakeOfficial,Drake,Music & Dance,27100000.0,United States,6500000.0,375900.0,14100.0,Other,11/21/2022
+141,adityamusic,Aditya Music,Music & Dance,27000000.0,India,13400.0,462.0,11.0,Other,11/13/2022
+142,Bounce Patrol - Kids Songs,Bounce Patrol - Kids Songs,Music & Dance,26800000.0,Unknown,205500.0,832.0,0.0,Other,11/9/2022
+143,taylorgangent,Wiz Khalifa,Music & Dance,26800000.0,United States,204000.0,10100.0,475.0,Other,11/12/2022
+144,infobellstelugu,infobells - Telugu,Education,26600000.0,Unknown,70900.0,288.0,0.0,Other,11/3/2022
+145,enchufetv,enchufetv,Other,26600000.0,Ecuador,231900.0,14200.0,235.0,Other,11/20/2022
+146,TheDiamondMinecart,DanTDM,Video games,26300000.0,United States,466600.0,25100.0,2500.0,Other,11/18/2022
+147,toycantando,toycantando,Music & Dance,26300000.0,Unknown,73200.0,679.0,0.0,Animation,11/18/2022
+148,WorldStarHipHopTV,WORLDSTARHIPHOP,Music & Dance,26100000.0,United States,18500.0,551.0,39.0,Other,11/12/2022
+149,jypentertainment,JYP Entertainment,Music & Dance,25900000.0,United States,904200.0,110200.0,3900.0,Other,11/13/2022
+150,xSkyHeLLxx,Renato Garcia,Movies,25900000.0,Brazil,854000.0,91900.0,1400.0,Animation,11/17/2022
+151,Sandeep Maheshwari,Sandeep Maheshwari,Daily vlogs,25900000.0,India,1400000.0,92200.0,7200.0,Other,11/25/2022
+152,nickelodeonjuniorfr,Nick Jr.,Animation,25700000.0,Unknown,68300.0,182.0,0.0,Toys,11/25/2022
+153,VanossGaming,VanossGaming,Animation,25700000.0,United States,1200000.0,52900.0,1700.0,Video games,11/29/2022
+154,1MILLION Dance Studio,1MILLION Dance Studio,Other,25700000.0,India,35700.0,2100.0,27.0,Other,11/21/2022
+155,LosPolinesios,LosPolinesios,Music & Dance,25700000.0,Mexico,840700.0,37700.0,1700.0,Movies,11/17/2022
+156,Goldmines Dishoom,Goldmines Dishoom,Other,25500000.0,Unknown,8900.0,122.0,0.0,Other,11/21/2022
+157,adityacinema,Aditya Movies,Other,25200000.0,India,18500.0,511.0,10.0,Other,11/18/2022
+158,NewOnNetflix,Netflix,Movies,25100000.0,United States,96400.0,1600.0,151.0,Animation,11/25/2022
+159,Masha y el Oso,Masha y el Oso,Animation,25100000.0,Unknown,841000.0,4900.0,0.0,Other,11/5/2022
+160,Raffy Tulfo in Action,Raffy Tulfo in Action,News & Politics,25100000.0,Philippines,684000.0,11600.0,1300.0,Other,11/17/2022
+161,Jess No Limit,Jess No Limit,Movies,25000000.0,Indonesia,239300.0,7200.0,704.0,Animation,11/21/2022
+162,NickiMinajTelevision,Nicki Minaj,Music & Dance,24900000.0,United States,2000000.0,121400.0,10700.0,Other,11/6/2022
+163,smosh,Smosh,Movies,24900000.0,United States,127600.0,10400.0,334.0,Humor,11/26/2022
+164,WatchMojo,WatchMojo.com,Movies,24900000.0,United States,63000.0,2000.0,235.0,Other,11/4/2022
+165,postmalone,Post Malone,Music & Dance,24700000.0,United States,118300.0,11600.0,458.0,Other,11/11/2022
+166,davidguettavevo,David Guetta,Music & Dance,24700000.0,Brazil,81000.0,3600.0,184.0,Other,11/23/2022
+167,shemaroomovies,Shemaroo Movies,Other,24500000.0,India,19300.0,534.0,4.0,Other,11/3/2022
+168,Rans Entertainment,Rans Entertainment,Music & Dance,24500000.0,Indonesia,748600.0,28000.0,688.0,Humor,11/25/2022
+169,Super JoJo - Nursery Rhymes & Kids Songs,Super JoJo - Nursery Rhymes & Kids Songs,Animation,24400000.0,Unknown,36500.0,307.0,0.0,Other,11/20/2022
+170,LOENENT,1theK (원더케이),Other,24300000.0,Indonesia,7400.0,625.0,24.0,Other,11/28/2022
+171,Chloe Ting,Chloe Ting,Fitness,24300000.0,United States,303400.0,11500.0,439.0,Health & Self Help,11/24/2022
+172,Amit Bhadana,Amit Bhadana,Humor,24300000.0,India,4900000.0,483400.0,62000.0,Other,11/27/2022
+173,Crazy XYZ,Crazy XYZ,Other,24100000.0,India,2400000.0,217200.0,6000.0,Other,11/22/2022
+174,ChrisBrownTV,Chris Brown,Music & Dance,24100000.0,United States,20400000.0,773200.0,36200.0,Other,11/19/2022
+175,ColdplayVEVO,Coldplay,Music & Dance,24100000.0,United States,73000.0,11200.0,225.0,Other,11/1/2022
+176,Diana and Roma HIN,Diana and Roma HIN,Other,23900000.0,Unknown,80400.0,663.0,0.0,Other,11/17/2022
+177,TRANS7indonesia,TRANS7 OFFICIAL,Food & Drinks,23900000.0,Indonesia,6500.0,97.0,8.0,Other,11/29/2022
+178,NinjasHyper,Ninja,Animation,23900000.0,United States,243500.0,11900.0,607.0,Video games,11/20/2022
+179,ABPLIVE,ABPLIVE,News & Politics,23900000.0,India,2200.0,47.0,1.0,Other,11/30/2022
+180,James Charles,James Charles,Beauty,23800000.0,United States,734400.0,47400.0,1400.0,Fashion,11/12/2022
+181,DjSnakeTV,DJ Snake,Music & Dance,23700000.0,India,35500.0,2700.0,156.0,Other,11/22/2022
+182,HumNetwork,HUM TV,Other,23700000.0,Pakistan,2700.0,16.0,0.0,Other,11/20/2022
+183,Goldmines Bollywood,Goldmines Bollywood,Other,23500000.0,India,23800.0,138.0,6.0,Other,11/26/2022
+184,Happy Lives,Happy Lives,Other,23400000.0,Unknown,28800.0,150.0,0.0,Other,11/9/2022
+185,Troom Troom,Troom Troom,Animation,23300000.0,Unknown,245200.0,1900.0,84.0,Toys,11/8/2022
+186,NickyJamTV,NickyJamTV,Music & Dance,23300000.0,Colombia,30800.0,2000.0,76.0,Movies,11/13/2022
+187,netdmuzikk,netd müzik,Music & Dance,23300000.0,Turkey,8500.0,232.0,44.0,Other,11/6/2022
+188,Mister Max,Mister Max,DIY & Life Hacks,23300000.0,Russia,481500.0,12700.0,896.0,Other,11/27/2022
+189,EnriqueIglesiasPlay,Enrique Iglesias,Music & Dance,23200000.0,United States,66000.0,3900.0,538.0,Other,11/16/2022
+190,TheEnaldinhO,Enaldinho,Movies,23100000.0,Brazil,1400000.0,73900.0,903.0,Other,11/6/2022
+191,JellyYT,Jelly,Video games,23100000.0,United States,180800.0,8900.0,1000.0,Other,11/2/2022
+192,Anuel AA,Anuel AA,Music & Dance,23100000.0,Colombia,2300000.0,152000.0,7500.0,Animation,11/17/2022
+193,The Lallantop,The Lallantop,News & Politics,23100000.0,India,24300.0,640.0,76.0,Other,11/18/2022
+194,mildicasdemulher,Tina Pontes,Other,23100000.0,Brazil,72500.0,1700.0,0.0,Other,11/24/2022
+195,SesameStreet,Sesame Street,Other,23100000.0,Unknown,103200.0,520.0,0.0,Other,11/7/2022
+196,WB Kids,WB Kids,Movies,23100000.0,Unknown,43700.0,500.0,0.0,Animation,11/21/2022
+197,Frost Diamond,Frost Diamond,Music & Dance,23000000.0,Indonesia,396900.0,22100.0,837.0,Video games,11/1/2022
+198,onemeeeliondollars,Mark Rober,Science & Technology,22900000.0,United States,5400000.0,408800.0,27600.0,Other,11/18/2022
+199,Like Nastya AE,Like Nastya AE,Other,22800000.0,Unknown,707700.0,5100.0,0.0,Other,11/1/2022
+200,Miss Katy,Miss Katy,Video games,22700000.0,Russia,674800.0,14500.0,736.0,Other,11/26/2022
+201,DrossRotzank,DrossRotzank,Other,22700000.0,Mexico,1800000.0,146700.0,5900.0,Other,11/27/2022
+202,AmericasGotTalent,America's Got Talent,Music & Dance,22700000.0,United States,243000.0,4800.0,126.0,Movies,11/24/2022
+203,Technical Guruji,Technical Guruji,Other,22700000.0,India,491100.0,30200.0,1800.0,Other,11/11/2022
+204,VenusMovies,Venus Movies,Other,22500000.0,India,12500.0,178.0,11.0,Other,11/24/2022
+205,gmmgrammyofficial,GMM GRAMMY OFFICIAL,Music & Dance,22500000.0,Thailand,4800.0,169.0,3.0,Other,11/7/2022
+206,THECHAINSMOKERS,The Chainsmokers,Humor,22500000.0,United States,58100.0,2500.0,84.0,Other,11/25/2022
+207,MrBeast en Español,MrBeast en Español,Other,22400000.0,Mexico,7300000.0,292000.0,15300.0,Other,11/15/2022
+208,Smile Family,Smile Family,Movies,22300000.0,Unknown,65400.00000000001,356.0,0.0,Toys,11/16/2022
+209,goldmineshindi,Goldmines Movies,Other,22300000.0,India,8500.0,96.0,7.0,Other,11/15/2022
+210,Diana and Roma ARA,Diana and Roma ARA,Other,22300000.0,Unknown,586700.0,3700.0,0.0,Other,11/10/2022
+211,mmoshaya,mmoshaya,Other,22300000.0,Saudi Arabia,1300000.0,19300.0,605.0,Other,11/24/2022
+212,PeppaLatinoAmericano,Peppa Pig Español Latino - Canal Oficial,Toys,22300000.0,Unknown,435800.0,2800.0,0.0,Other,11/29/2022
+213,WHBBP,White Hill Music,Music & Dance,22200000.0,India,16000.0,829.0,41.0,Other,11/22/2022
+214,PenIndiaPvtLimited,Pen Movies,Movies,22100000.0,India,173500.0,5500.0,184.0,Animation,11/15/2022
+215,TEDtalksDirector,TED,Other,22100000.0,United States,47700.0,1500.0,135.0,Other,11/2/2022
+216,Brent Rivera,Brent Rivera,Video games,22100000.0,United States,3200000.0,194500.0,7300.0,Humor,11/6/2022
+217,oRugrat,FaZe Rug,Video games,22100000.0,United States,2600000.0,99400.0,7600.0,Humor,11/9/2022
+218,Paulo Londra,Paulo Londra,Music & Dance,22100000.0,Argentina,1300000.0,82800.0,2300.0,Other,11/8/2022
+219,D Billions,D Billions,Other,22000000.0,Unknown,784700.0,1200.0,0.0,Other,11/26/2022
+220,hamaarbhojiwood,Wave Music Bhojpuri,Music & Dance,22000000.0,India,19000.0,252.0,21.0,Other,11/4/2022
+221,siavideos,Sia,Music & Dance,21900000.0,United States,87600.0,7500.0,559.0,Other,11/1/2022
+222,starplus,StarPlus,Other,21900000.0,India,26100.0,437.0,10.0,Other,11/11/2022
+223,PrestonPlayz,Preston,Animation,21900000.0,United States,1000000.0,28400.0,1100.0,Video games,11/30/2022
+224,BabyBus - Canciones Infantiles & Videos para Niños,BabyBus - Canciones Infantiles & Videos para Niños,Movies,21600000.0,Unknown,235100.0,1100.0,0.0,Animation,11/23/2022
+225,Juan De Dios Pantoja,Juan De Dios Pantoja,Daily vlogs,21500000.0,Mexico,1700000.0,117400.0,2400.0,Other,11/28/2022
+226,SSundee,SSundee,Video games,21500000.0,United States,1300000.0,68500.0,3600.0,Other,11/21/2022
+227,Like Nastya PRT,Like Nastya PRT,Other,21400000.0,Unknown,346200.0,1800.0,0.0,Other,11/13/2022
+228,LankyBox,LankyBox,Video games,21300000.0,United States,262300.0,4100.0,181.0,Other,11/9/2022
+229,FGTeeV,FGTeeV,Animation,21300000.0,United States,608400.0,8300.0,1100.0,Video games,11/27/2022
+230,shfa show India,shfa show India,Daily vlogs,21300000.0,Unknown,1000000.0,10900.0,0.0,Other,11/24/2022
+231,CharliesVlogs,Charlie Puth,Music & Dance,21300000.0,United States,645100.0,24300.0,784.0,Other,11/15/2022
+232,Goldmines Cineplex,Goldmines Cineplex,Other,21100000.0,India,7600.0,117.0,6.0,Other,11/16/2022
+233,Tasty,Tasty,Food & Drinks,21100000.0,United States,60000.0,3400.0,33.0,Other,11/24/2022
+234,UltraMovieParlour,Ultra Movie Parlour,Other,20900000.0,India,34600.0,358.0,11.0,Other,11/9/2022
+235,NationalGeographic,National Geographic,Other,20900000.0,United States,30700.0,723.0,25.0,Other,11/15/2022
+236,5-Minute Crafts DIY,5-Minute Crafts DIY,Music & Dance,20900000.0,India,11100.0,240.0,7.0,Humor,11/12/2022
+237,Baim Paula,Baim Paula,Music & Dance,20900000.0,Indonesia,862500.0,50700.0,11500.0,Movies,11/14/2022
+238,Kids TV - Nursery Rhymes And Baby Songs,Kids TV - Nursery Rhymes And Baby Songs,Toys,20900000.0,Unknown,23200.0,64.0,0.0,Other,11/23/2022
+239,★ Kids Roma Show,★ Kids Roma Show,Animation,20800000.0,Unknown,2900000.0,10200.0,0.0,Toys,11/19/2022
+240,BeckyGOfficial,Becky G,Music & Dance,20800000.0,United States,1600000.0,32299.999999999996,1300.0,Other,11/21/2022
+241,CanalCanalha,Canal Canalha,Sports,20700000.0,Brazil,1400000.0,160300.0,3900.0,Other,11/26/2022
+242,DisneyChannelLA,Disney Latinoamérica,Other,20700000.0,Unknown,19300.0,207.0,0.0,Other,11/27/2022
+243,Brave Wilderness,Brave Wilderness,Other,20500000.0,United States,454600.0,10800.0,790.0,Other,11/17/2022
+244,RotanaAudio,Rotana,Music & Dance,20500000.0,Saudi Arabia,16800.0,390.0,25.0,Other,11/15/2022
+245,Alan Becker,Alan Becker,Animation,20500000.0,United States,808500.0,80800.0,2800.0,Video games,11/13/2022
+246,JakePaulProductions,Jake Paul,Fitness,20300000.0,United States,234000.0,8300.0,1000.0,Other,11/1/2022
+247,Vlad and Niki Arabic,Vlad and Niki Arabic,Other,20300000.0,Unknown,226000.0,1700.0,0.0,Other,11/6/2022
+248,BuzzFeedVideo,BuzzFeedVideo,Food & Drinks,20300000.0,United States,26900.0,537.0,23.0,Other,11/30/2022
+249,GooodLifeFilms,Lyrical Lemonade,Other,20300000.0,United States,950300.0,45300.0,3100.0,Other,11/4/2022
+250,TelenovelaTelevisa,Tlnovelas,Other,20300000.0,Mexico,12100.0,241.0,11.0,Other,11/20/2022
+251,LazarBeam,LazarBeam,Animation,20300000.0,United States,1600000.0,98200.0,6900.0,Video games,11/19/2022
+252,toyorbabytv,toyorbabytv,Music & Dance,20300000.0,Unknown,116800.0,0.0,0.0,Other,11/21/2022
+253,AuthenticGames,AuthenticGames,Movies,20300000.0,Brazil,36000.0,3700.0,411.0,Video games,11/25/2022
+254,MrVivekBindra,Dr. Vivek Bindra: Motivational Speaker,Education,20100000.0,India,230100.0,16600.0,746.0,Other,11/2/2022
+255,SlivkiChanel,SlivkiShow,Video games,20100000.0,Russia,2100000.0,121500.0,3500.0,Other,11/17/2022
+256,Totoy kids - Português,Totoy kids - Português,Animation,20100000.0,Unknown,69400.0,872.0,0.0,Other,11/25/2022
+257,5-Minute Crafts PLAY,5-Minute Crafts PLAY,Other,20100000.0,India,29900.0,216.0,12.0,Other,11/1/2022
+258,TheFineBros,REACT,Humor,20100000.0,United States,94100.0,4000.0,227.0,Other,11/16/2022
+259,VEVO,Vevo,Music & Dance,20100000.0,United States,51900.0,552.0,19.0,Other,11/17/2022
+260,HaerteTest,HaerteTest,Other,20000000.0,India,22000.0,134.0,14.0,Other,11/16/2022
+261,rossbollinger,Pencilmation,Animation,20000000.0,United States,91200.0,1600.0,41.0,Humor,11/21/2022
+262,Beast Reacts,Beast Reacts,Other,20000000.0,United States,9700000.0,321500.0,5300.0,Other,11/3/2022
+263,romeo,Romeo Santos,Music & Dance,19900000.0,United States,69400.0,6500.0,325.0,Other,11/20/2022
+264,Mnet,Mnet K-POP,Music & Dance,19900000.0,United States,45500.0,2800.0,177.0,Animation,11/16/2022
+265,Kinder Spielzeug Kanal,Kinder Spielzeug Kanal,Animation,19900000.0,Unknown,114400.0,2000.0,0.0,Toys,11/9/2022
+266,PTXofficial,Pentatonix,Music & Dance,19900000.0,United States,350500.0,18900.0,959.0,Other,11/15/2022
+267,Sun TV,Sun TV,Other,19900000.0,India,62500.0,1400.0,12.0,Other,11/17/2022
+268,MARVEL,Marvel Entertainment,Movies,19900000.0,United States,142100.0,8200.0,367.0,Animation,11/18/2022
+269,Netflix India,Netflix India,Other,19800000.0,India,160700.0,4800.0,117.0,Other,11/26/2022
+270,Noor Stars,Noor Stars,Movies,19700000.0,Iraq,945600.0,85400.0,3200.0,Humor,11/16/2022
+271,corbuzierprediction,Deddy Corbuzier,Other,19700000.0,Indonesia,2900000.0,64900.00000000001,7100.0,Other,11/28/2022
+272,gottalentglobal,Got Talent Global,Other,19700000.0,United States,43100.0,778.0,28.0,Other,11/13/2022
+273,Infinite,Infinite,Video games,19700000.0,United States,630700.0,15400.0,695.0,Humor,11/2/2022
+274,Eva Bravo Play,Eva Bravo Play,Other,19700000.0,Unknown,427100.0,2300.0,0.0,Other,11/27/2022
+275,Kurzgesagt,Kurzgesagt – In a Nutshell,Education,19700000.0,United States,4400000.0,211800.0,6300.0,Other,11/15/2022
+276,invictorgs3,invictor,Animation,19600000.0,Mexico,523700.00000000006,35900.0,794.0,Video games,11/29/2022
+277,fatosdesconhecidos,Fatos Desconhecidos,Science & Technology,19500000.0,Brazil,118400.0,14000.0,540.0,Other,11/23/2022
+278,gordonramsay,Gordon Ramsay,Food & Drinks,19500000.0,United States,96000.0,3100.0,273.0,Health & Self Help,11/21/2022
+279,Gusttavo Lima Oficial,Gusttavo Lima Oficial,Music & Dance,19500000.0,Brazil,6500000.0,49300.0,1400.0,Other,11/13/2022
+280,RobinHoodGamer1,Robin Hood Gamer,Animation,19500000.0,Brazil,739900.0,51300.0,748.0,Video games,11/12/2022
+281,NBA,NBA,Sports,19500000.0,United States,39800.0,1500.0,59.0,Other,11/4/2022
+282,Zhong,Zhong,Other,19400000.0,United States,2300000.0,199800.0,877.0,Other,11/28/2022
+283,Troom Troom Es,Troom Troom Es,Other,19400000.0,Mexico,87600.0,1400.0,46.0,Other,11/22/2022
+284,OfficialClashOfClans,Clash of Clans,Movies,19300000.0,United States,354600.0,29700.0,767.0,Animation,11/25/2022
+285,Vania Mania Kids,Vania Mania Kids,Animation,19300000.0,Unknown,852900.0,3800.0,0.0,Toys,11/2/2022
+286,shakiraVEVO,shakiraVEVO,Music & Dance,19200000.0,Colombia,96000000.0,3100000.0,148500.0,Other,11/29/2022
+287,TheElenaYa,Diana and Roma EN,Animation,19200000.0,Unknown,1200000.0,5500.0,0.0,Toys,11/28/2022
+288,DLS News,DLS News,News & Politics,19200000.0,India,42700.0,1500.0,92.0,Other,11/19/2022
+289,The Royalty Family,The Royalty Family,Humor,19100000.0,United States,3200000.0,124400.0,19000.0,Other,11/15/2022
+290,AS Gaming,AS Gaming,Other,19100000.0,India,268200.0,26500.0,769.0,Other,11/28/2022
+291,Crafty Panda,Crafty Panda,Music & Dance,19100000.0,India,52000.0,410.0,10.0,Other,11/10/2022
+292,YOLO AVENTURAS,YOLO AVENTURAS,Other,19000000.0,Mexico,1100000.0,105200.0,1100.0,Other,11/17/2022
+293,JimmyKimmelLive,Jimmy Kimmel Live,Movies,19000000.0,United States,183700.0,4300.0,333.0,Other,11/21/2022
+294,TRT Originals Urdu,TRT Originals Urdu,Other,19000000.0,Pakistan,183300.0,9700.0,237.0,Other,11/30/2022
+295,BritainsGotTalent09,Britain's Got Talent,Music & Dance,18900000.0,United Kingdom,104500.0,1000.0,22.0,Movies,11/24/2022
+296,greengoldtv,Green Gold TV - Official Channel,Other,18900000.0,Unknown,460000.0,3500.0,0.0,Other,11/20/2022
+297,Kids Channel India - Hindi Rhymes and Baby Songs,Kids Channel India - Hindi Rhymes and Baby Songs,Education,18900000.0,Unknown,59500.0,445.0,0.0,Other,11/25/2022
+298,BabyBus - Cerita & Lagu Anak-anak,BabyBus - Cerita & Lagu Anak-anak,Movies,18800000.0,Unknown,195000.0,1200.0,0.0,Humor,11/13/2022
+299,sonotekvideo,Sonotek,Music & Dance,18700000.0,India,572500.0,15400.0,384.0,Animation,11/29/2022
+300,The ACE Family,The ACE Family,Humor,18700000.0,United States,914200.0,39000.0,3300.0,Other,11/8/2022
+301,Heidi & Zidane बच्चों की कहानियाँ,Heidi & Zidane बच्चों की कहानियाँ,Daily vlogs,18700000.0,Unknown,59900.0,437.0,0.0,Other,11/13/2022
+302,CookieSwirlC,CookieSwirlC,Video games,18700000.0,United States,101200.0,1600.0,371.0,Other,11/28/2022
+303,MiawAug,MiawAug,Video games,18700000.0,Indonesia,492600.0,25300.0,1400.0,Other,11/25/2022
+304,PinkPanther,Official Pink Panther,Movies,18700000.0,Unknown,313200.0,2600.0,0.0,Animation,11/27/2022
+305,TheWillyrex,TheWillyrex,Other,18500000.0,Spain,17200.0,1100.0,221.0,Other,11/10/2022
+306,ElTrollino,ElTrollino,Animation,18500000.0,Mexico,680900.0,28000.0,212.0,Video games,11/8/2022
+307,Village Cooking Channel,Village Cooking Channel,Other,18500000.0,India,3200000.0,146200.0,2600.0,Other,11/25/2022
+308,TheOdd1sOut,TheOdd1sOut,Movies,18500000.0,United States,908200.0,71700.0,1000.0,Animation,11/26/2022
+309,HiBestMan,HiMan,Video games,18500000.0,Russia,924600.0,62000.0,2400.0,Other,11/29/2022
+310,kbsworld,KBS WORLD TV,Other,18500000.0,Indonesia,6000.0,199.0,8.0,Other,11/4/2022
+311,Emiway Bantai,Emiway Bantai,Music & Dance,18400000.0,India,592600.0,87900.0,4900.0,Other,11/14/2022
+312,Junya Official Channel,Junya Official Channel,Other,18400000.0,Japan,389800.0,7800.0,27.0,Other,11/27/2022
+313,turmadamonicaTV,Turma da Mônica,Other,18300000.0,Unknown,133000.0,2700.0,0.0,Other,11/1/2022
+314,SCTVIndonesia,SCTV,Music & Dance,18300000.0,Indonesia,14400.0,272.0,23.0,Movies,11/4/2022
+315,Dan Rhodes,Dan Rhodes,Animation,18300000.0,United States,307300.0,22100.0,141.0,Toys,11/27/2022
+316,Alejo Igoa,Alejo Igoa,DIY & Life Hacks,18300000.0,Argentina,4700000.0,98600.0,7500.0,Other,11/29/2022
+317,PDKFilms,PDK Films,Movies,18300000.0,United States,534800.0,17200.0,1100.0,Animation,11/5/2022
+318,farrukotv,Farruko,Music & Dance,18300000.0,United States,4099999.9999999995,86700.0,3400.0,Other,11/7/2022
+319,Rafa & Luiz,Rafa & Luiz,Video games,18300000.0,Brazil,590900.0,31800.0,812.0,Other,11/22/2022
+320,Unbox Therapy,Unbox Therapy,Science & Technology,18300000.0,United States,945900.0,12700.0,907.0,Other,11/3/2022
+321,DanielSaboya,Dan-Sa / Daniel Saboya,Music & Dance,18300000.0,Brazil,26100.0,1200.0,45.0,Animation,11/21/2022
+322,Vlad and Niki IDN,Vlad and Niki IDN,Music & Dance,18200000.0,Unknown,446800.0,2000.0,0.0,Movies,11/24/2022
+323,Sourav Joshi Vlogs,Sourav Joshi Vlogs,Daily vlogs,18200000.0,India,5400000.0,485800.0,10900.0,Other,11/19/2022
+324,INCRÍVEL,INCRÍVEL,Animation,18100000.0,Unknown,20600.0,847.0,26.0,Other,11/3/2022
+325,GEN HALILINTAR,GEN HALILINTAR,Music & Dance,18100000.0,Indonesia,124200.0,4600.0,136.0,Humor,11/28/2022
+326,Vsauce,Vsauce,Science & Technology,18100000.0,United States,224900.0,14500.0,1100.0,Other,11/20/2022
+327,etvteluguindia,etvteluguindia,Other,18100000.0,India,19500.0,216.0,4.0,Other,11/11/2022
+328,Naisa Alifia Yuriza (N.A.Y),Naisa Alifia Yuriza (N.A.Y),Music & Dance,18000000.0,Indonesia,169000.0,9200.0,140.0,Movies,11/1/2022
+329,Like Nastya Vlog,Like Nastya Vlog,Daily vlogs,18000000.0,Unknown,430500.0,1500.0,0.0,Other,11/14/2022
+330,Kiddiestv Hindi - Nursery Rhymes & Kids Songs,Kiddiestv Hindi - Nursery Rhymes & Kids Songs,Education,17900000.0,Unknown,12400.0,65.0,0.0,Other,11/10/2022
+331,ThePoznavatel,Познаватель,Toys,17900000.0,Russia,1100000.0,41900.0,1800.0,DIY & Life Hacks,11/29/2022
+332,rhettandlink2,Good Mythical Morning,Food & Drinks,17900000.0,United States,959700.0,34000.0,1400.0,Other,11/10/2022
+333,Little Angel Español - Canciones Infantiles,Little Angel Español - Canciones Infantiles,Animation,17900000.0,Unknown,413500.0,2400.0,0.0,Other,11/17/2022
+334,DUDU e CAROL,DUDU e CAROL,Other,17900000.0,Brazil,2100000.0,179900.0,365.0,Other,11/24/2022
+335,NichLmao,NichLmao,Daily vlogs,17900000.0,United States,3800000.0,283200.0,1900.0,Other,11/30/2022
+336,Matroix,Ali-A,Video games,17900000.0,United States,511200.0,19300.0,3000.0,Other,11/23/2022
+337,TEDEducation,TED-Ed,Science & Technology,17900000.0,United States,344700.0,14800.0,642.0,Other,11/29/2022
+338,dj47maryn,Marmok,Animation,17900000.0,Russia,3800000.0,341500.0,13300.0,Video games,11/1/2022
+339,rsiammusic,RsiamMusic : อาร์สยาม,Music & Dance,17900000.0,Thailand,8300.0,258.0,6.0,Other,11/25/2022
+340,therealdemilovato,Demi Lovato,Music & Dance,17800000.0,United States,143500.0,14400.0,850.0,Other,11/5/2022
+341,STARVIJAY,Vijay Television,Other,17800000.0,India,123900.0,2600.0,37.0,Other,11/1/2022
+342,TheGrefg,TheGrefg,Animation,17700000.0,Spain,1100000.0,80400.0,1400.0,Video games,11/10/2022
+343,SockeyeMedia,Mother Goose Club Playhouse,Music & Dance,17700000.0,Unknown,8500.0,52.0,0.0,Other,11/30/2022
+344,SebastianYatra,Sebastián Yatra,Music & Dance,17700000.0,Colombia,16300.0,1500.0,117.0,Other,11/10/2022
+345,JFlaMusic,JFlaMusic,Music & Dance,17700000.0,United States,76900.0,5600.0,181.0,Other,11/21/2022
+346,Masha e o Urso,Masha e o Urso,Other,17700000.0,Unknown,321000.0,2100.0,0.0,Other,11/19/2022
+347,officialpsy,officialpsy,Music & Dance,17700000.0,United States,102400.0,8500.0,478.0,Other,11/30/2022
+348,SUPER SLICK SLIME SAM,SUPER SLICK SLIME SAM,Other,17600000.0,Mexico,191200.0,6400.0,116.0,Other,11/7/2022
+349,RobleisIUTU,RobleisIUTU,Movies,17600000.0,Argentina,733600.0,53900.0,1300.0,Animation,11/15/2022
+350,grammygoldofficia,Grammy Gold Official,Music & Dance,17600000.0,Thailand,10100.0,396.0,10.0,Other,11/8/2022
+351,portadosfundos,Porta dos Fundos,Movies,17600000.0,Brazil,765100.0,70200.0,966.0,Animation,11/17/2022
+352,aMOODIEsqueezie,SQUEEZIE,Other,17600000.0,France,5500000.0,429600.0,5500.0,Other,11/27/2022
+353,FactTechz,FactTechz,Education,17500000.0,India,518100.0,45300.0,1800.0,Other,11/22/2022
+354,monstafluffmusicTV,7clouds,Music & Dance,17500000.0,United States,207200.0,3600.0,163.0,Other,11/16/2022
+355,SOMOY TV,SOMOY TV,Daily vlogs,17400000.0,Bangladesh,6400.0,157.0,11.0,Other,11/18/2022
+356,ArabGamesNetwork,شبكة العاب العرب | Arab Games Network,Other,17400000.0,Algeria,178000.0,18800.0,806.0,Other,11/22/2022
+357,Stubborn Facts,Stubborn Facts,Other,17300000.0,India,106600.0,4400.0,124.0,Other,11/28/2022
+358,Sidemen,Sidemen,Video games,17200000.0,United Kingdom,9700000.0,583700.0,17500.0,Humor,11/17/2022
+359,Willyrex,Willyrex,Video games,17200000.0,Mexico,60700.0,5900.0,30.0,Other,11/12/2022
+360,Goldmines Great Indian Comedy,Goldmines Great Indian Comedy,Other,17200000.0,India,8200.0,102.0,4.0,Other,11/8/2022
+361,Triggered Insaan,Triggered Insaan,Humor,17100000.0,India,5800000.0,550800.0,19300.0,Other,11/30/2022
+362,Jane ASMR 제인,Jane ASMR 제인,Daily vlogs,17100000.0,Indonesia,297300.0,4500.0,201.0,Other,11/22/2022
+363,Dhar Mann,Dhar Mann,Health & Self Help,17100000.0,United States,4600000.0,87000.0,4100.0,Other,11/1/2022
+364,iberethenorio,Manual do Mundo,Science & Technology,17000000.0,Brazil,523100.0,58600.0,653.0,Other,11/13/2022
+365,indiancomedy,Shemaroo Comedy,Other,17000000.0,India,40300.0,541.0,12.0,Other,11/19/2022
+366,musicalrmastv,الـريماس - Al-Remas,Music & Dance,17000000.0,Iraq,80400.0,2500.0,235.0,Other,11/10/2022
+367,IGNentertainment,IGN,Other,17000000.0,United States,49000.0,1200.0,150.0,Other,11/29/2022
+368,JasonDerulo,Jason Derulo,Music & Dance,17000000.0,United States,54500.0,2900.0,44.0,Other,11/16/2022
+369,aynakoitsroi,Guava Juice,Other,17000000.0,United States,94800.0,2000.0,305.0,Other,11/11/2022
+370,Daniel LaBelle,Daniel LaBelle,Other,16900000.0,United States,17100000.0,725100.0,1100.0,Other,11/21/2022
+371,rkddigital,RKD Studios,Other,16800000.0,India,77200.0,1900.0,49.0,Other,11/2/2022
+372,SonyMusicSouthVEVO,SonyMusicSouthVEVO,Music & Dance,16800000.0,Unknown,10200.0,227.0,7.0,Other,11/27/2022
+373,Zuni and Family,Zuni and Family,Daily vlogs,16800000.0,Unknown,9500.0,82.0,0.0,Other,11/14/2022
+374,Gulshan Kalra,Gulshan Kalra,Other,16800000.0,India,9100000.0,626400.0,436.0,Other,11/14/2022
+375,Fede Vigevani,Fede Vigevani,Other,16800000.0,Mexico,3500000.0,261300.0,12300.0,Other,11/14/2022
+376,Apple,Apple,Music & Dance,16800000.0,Unknown,702600.0,20000.0,0.0,Animation,11/12/2022
+377,TheBrianMaps,TheBrianMaps,Video games,16800000.0,Russia,1300000.0,195100.0,11800.0,Humor,11/10/2022
+378,Tu COSMOPOLIS,Tu COSMOPOLIS,News & Politics,16800000.0,Mexico,75500.0,5900.0,481.0,Other,11/18/2022
+379,zbingzbing,zbing z.,Animation,16800000.0,Thailand,452900.0,17000.0,774.0,Video games,11/11/2022
+380,tanboy kun,tanboy kun,Music & Dance,16700000.0,Indonesia,1400000.0,33600.0,1800.0,Other,11/8/2022
+381,Blippi - Educational Videos for Kids,Blippi - Educational Videos for Kids,Education,16600000.000000002,Unknown,869500.0,3000.0,0.0,Toys,11/5/2022
+382,jquintanac5,DeToxoMoroxo,Movies,16600000.000000002,Mexico,194300.0,14800.0,3600.0,Animation,11/11/2022
+383,queenofficial,Queen Official,Music & Dance,16600000.000000002,United States,162800.0,16500.0,1100.0,Movies,11/17/2022
+384,IDEAS EN 5 MINUTOS,IDEAS EN 5 MINUTOS,Other,16600000.000000002,Mexico,16600.0,169.0,5.0,Other,11/26/2022
+385,Katie Angel,Katie Angel,Other,16600000.000000002,Mexico,237000.0,19700.0,129.0,Other,11/10/2022
+386,Prajapati News,Prajapati News,Other,16500000.0,India,22900.0,1200.0,56.0,Other,11/15/2022
+387,alanalan9635,Stokes Twins,Video games,16500000.0,United States,7000000.0,211500.0,10700.0,Humor,11/13/2022
+388,Sandra Cires Art,Sandra Cires Art,Other,16399999.999999998,Colombia,484500.0,30700.0,1600.0,Other,11/27/2022
+389,ppextras,ExtraPolinesios,Daily vlogs,16399999.999999998,Mexico,51900.0,3400.0,679.0,Other,11/3/2022
+390,marquesbrownlee,Marques Brownlee,Science & Technology,16399999.999999998,United States,2600000.0,100000.0,5300.0,Other,11/26/2022
+391,MatthewPatrick13,The Game Theorists,Science & Technology,16399999.999999998,United States,1500000.0,109400.0,16700.0,Other,11/27/2022
+392,El Reino a Jugar,El Reino a Jugar,Education,16399999.999999998,Unknown,73600.0,316.0,0.0,Toys,11/3/2022
+393,lescopaque,Les' Copaque Production,Other,16399999.999999998,Indonesia,197500.0,4900.0,55.0,Other,11/22/2022
+394,TRANSTVofficial,TRANS TV Official,Music & Dance,16300000.0,Indonesia,700.0,17.0,2.0,Other,11/3/2022
+395,vice,VICE,News & Politics,16300000.0,United States,254500.0,5900.0,929.0,Other,11/28/2022
+396,Dangal TV Channel,Dangal TV Channel,Other,16300000.0,India,108700.0,1300.0,7.0,Other,11/16/2022
+397,AMARINTV : อมรินทร์ทีวี,AMARINTV : อมรินทร์ทีวี,News & Politics,16200000.0,Thailand,10400.0,145.0,11.0,Other,11/7/2022
+398,News24page,News24,News & Politics,16200000.0,India,3000.0,51.0,5.0,Other,11/12/2022
+399,Kaykai Salaider,Kaykai Salaider,Movies,16200000.0,Thailand,3300000.0,272400.0,13800.0,Humor,11/20/2022
+400,And TV,And TV,Other,16200000.0,India,2000.0,15.0,1.0,Other,11/29/2022
+401,failarmy,FailArmy,Animation,16200000.0,United States,1500000.0,19800.0,1000.0,Humor,11/27/2022
+402,LIV Crime,LIV Crime,Daily vlogs,16200000.0,India,87500.0,967.0,30.0,Other,11/11/2022
+403,Aayu and Pihu Show,Aayu and Pihu Show,Movies,16200000.0,India,2900000.0,70900.0,5900.0,Humor,11/5/2022
+404,Ivana Alawi,Ivana Alawi,Daily vlogs,16200000.0,Philippines,2700000.0,137400.0,12000.0,Other,11/9/2022
+405,boyceavenue,Boyce Avenue,Music & Dance,16200000.0,Brazil,279800.0,8000.0,373.0,Other,11/1/2022
+406,KSIOlajidebtHD,JJ Olatunji,Other,16200000.0,United States,2300000.0,164800.0,4800.0,Other,11/22/2022
+407,Zappy Toons - Hindi Nursery Rhymes and Stories,Zappy Toons - Hindi Nursery Rhymes and Stories,Education,16200000.0,Unknown,51800.0,258.0,0.0,Other,11/20/2022
+408,Antrax,Antrax,Video games,16200000.0,Mexico,545300.0,31000.0,1200.0,Other,11/21/2022
+409,Jason Vlogs,Jason Vlogs,Animation,16200000.0,Unknown,310400.0,1300.0,0.0,Toys,11/1/2022
+410,Camila Cabello,Camila Cabello,Music & Dance,16000000.0,United States,276600.0,18800.0,951.0,Movies,11/3/2022
+411,popchartbusters,Pop Chartbusters,Music & Dance,16000000.0,India,6800.0,114.0,10.0,Other,11/17/2022
+412,MegatoadStonie,Matt Stonie,Food & Drinks,16000000.0,United States,2400000.0,125900.0,1800.0,Other,11/24/2022
+413,PitbullMusic,Pitbull,Music & Dance,16000000.0,United States,15000.0,817.0,22.0,Other,11/21/2022
+414,DopeLyrics,DopeLyrics,Music & Dance,16000000.0,United States,10600.0,256.0,34.0,Other,11/12/2022
+415,JenniferLopez,Jennifer Lopez,Music & Dance,16000000.0,Unknown,0.0,0.0,0.0,Movies,11/30/2022
+416,Kids Play,Kids Play,Other,16000000.0,Unknown,111600.0,530.0,0.0,Other,11/16/2022
+417,Like Nastya VNM,Like Nastya VNM,Other,15900000.0,Unknown,528300.0,0.0,0.0,Other,11/3/2022
+418,Wow Kidz Action,Wow Kidz Action,Other,15900000.0,Unknown,41500.0,407.0,0.0,Other,11/24/2022
+419,Enes Batur,Enes Batur,Video games,15800000.0,Turkey,1600000.0,86400.0,6700.0,Humor,11/12/2022
+420,AdMe,AdMe,Animation,15800000.0,Russia,39300.0,1100.0,57.0,Other,11/11/2022
+421,OGatoGalactico,Gato Galactico | GALÁXIA,Animation,15800000.0,Brazil,171800.0,8200.0,123.0,Other,11/13/2022
+422,Busy Fun Ltd,Busy Fun Ltd,Other,15800000.0,India,1800000.0,10000.0,327.0,Other,11/1/2022
+423,movieclipsTRAILERS,Rotten Tomatoes Trailers,Movies,15800000.0,United States,40900.0,760.0,86.0,Animation,11/23/2022
+424,RCTI - LAYAR DRAMA INDONESIA,RCTI - LAYAR DRAMA INDONESIA,Music & Dance,15800000.0,Indonesia,16000.0,260.0,14.0,Movies,11/21/2022
+425,With Kids[위드키즈],With Kids[위드키즈],Other,15700000.0,United States,145500.0,0.0,0.0,Other,11/22/2022
+426,That Little Puff,That Little Puff,Other,15700000.0,United States,4200000.0,201500.0,340.0,Other,11/3/2022
+427,Dyland PROS,Dyland PROS,Movies,15600000.0,Indonesia,64400.00000000001,4000.0,77.0,Animation,11/2/2022
+428,portalfitdance,FitDance,Music & Dance,15600000.0,Unknown,47500.0,1600.0,19.0,Other,11/3/2022
+429,SriBalajiMovies,SriBalajiMovies,Other,15600000.0,India,17300.0,123.0,2.0,Other,11/6/2022
+430,Zach Choi ASMR,Zach Choi ASMR,Daily vlogs,15600000.0,United States,2100000.0,207000.0,830.0,Other,11/21/2022
+431,SAM SMITH,SAM SMITH,Other,15600000.0,United States,108300.0,6900.0,252.0,Other,11/30/2022
+432,RomanAtwoodVlogs,Roman Atwood Vlogs,Movies,15600000.0,United States,619300.0,27600.0,1300.0,Humor,11/22/2022
+433,Like Nastya IDN,Like Nastya IDN,Music & Dance,15600000.0,Unknown,172700.0,0.0,0.0,Movies,11/30/2022
+434,Camilo,Camilo,Music & Dance,15500000.0,Colombia,934100.0,38100.0,242.0,Other,11/13/2022
+435,Vlad and Niki ESP,Vlad and Niki ESP,Other,15500000.0,Unknown,1100000.0,6200.0,0.0,Other,11/7/2022
+436,T3DDYgames,T3ddy,Daily vlogs,15400000.0,Brazil,568300.0,68800.0,2000.0,Other,11/20/2022
+437,laharimusic,Lahari Music | T-Series,Music & Dance,15400000.0,India,30400.0,951.0,12.0,Other,11/6/2022
+438,bbtvch7,Ch7HD,Other,15400000.0,Thailand,7700.0,202.0,3.0,Other,11/6/2022
+439,LOKESH GAMER,LOKESH GAMER,Other,15400000.0,India,184400.0,21800.0,1000.0,Other,11/7/2022
+440,Kerajinan 5-Menit,Kerajinan 5-Menit,Music & Dance,15400000.0,Indonesia,22800.0,203.0,6.0,Other,11/6/2022
+441,elcanaldePlimPlim,Plim Plim - Kids Songs & Episodes - Spanish,Music & Dance,15400000.0,Unknown,461200.0,2100.0,0.0,Other,11/17/2022
+442,GMMTVSPOTLIKE,GMMTV OFFICIAL​​,Music & Dance,15400000.0,Thailand,10600.0,447.0,9.0,Movies,11/17/2022
+443,popskids,POPS Kids,Animation,15400000.0,Indonesia,2800.0,20.0,0.0,Other,11/23/2022
+444,YOLO,YOLO,Other,15300000.0,Mexico,803300.0,52000.0,334.0,Other,11/24/2022
+445,LEGO,LEGO,Animation,15200000.0,United States,44900.0,613.0,0.0,Other,11/5/2022
+446,hejproducao,Henrique e Juliano,Music & Dance,15200000.0,Brazil,41900.0,2600.0,34.0,Other,11/13/2022
+447,5-Minute Crafts FAMILY,5-Minute Crafts FAMILY,Other,15200000.0,India,13000.0,128.0,5.0,Other,11/11/2022
+448,Oyuncak Avı,Oyuncak Avı,Other,15200000.0,Unknown,39100.0,0.0,2.0,Other,11/1/2022
+449,newvolgavideo,Volga Video,Other,15200000.0,India,3200.0,27.0,1.0,Other,11/12/2022
+450,mkmusicnews,MK MUSIC,Music & Dance,15200000.0,Brazil,19800.0,1800.0,35.0,Other,11/3/2022
+451,TheRichest,TheRichest,News & Politics,15200000.0,United States,14200.0,513.0,79.0,Other,11/10/2022
+452,Super Senya,Super Senya,Animation,15200000.0,Unknown,65000.0,374.0,0.0,Toys,11/11/2022
+453,TalkingFriends,Talking Tom & Friends,Animation,15200000.0,United States,191100.0,1700.0,0.0,Humor,11/23/2022
+454,حِرف إبداعية في 5 دقائق,حِرف إبداعية في 5 دقائق,Other,15200000.0,Egypt,28700.0,230.0,7.0,Other,11/7/2022
+455,bbchindi,BBC News Hindi,News & Politics,15200000.0,India,140000.0,0.0,269.0,Other,11/12/2022
+456,narendramodionline,NMF News,News & Politics,15200000.0,India,14300.0,307.0,29.0,Other,11/17/2022
+457,News18 India,News18 India,News & Politics,15200000.0,India,1100.0,23.0,1.0,Other,11/10/2022
+458,ndtvindia,NDTV India,News & Politics,15100000.0,India,9400.0,237.0,20.0,Other,11/12/2022
+459,Fun For Kids TV - Hindi Rhymes,Fun For Kids TV - Hindi Rhymes,Other,15100000.0,Unknown,250500.0,1400.0,0.0,Other,11/22/2022
+460,La Rosa de Guadalupe,La Rosa de Guadalupe,Other,15100000.0,Mexico,33800.0,992.0,16.0,Other,11/21/2022
+461,SMOL,SMOL,Other,15100000.0,India,354600.0,13900.0,12.0,Other,11/21/2022
+462,ranziscool,Ranz Kyle,Humor,15000000.0,Philippines,684800.0,25700.0,291.0,Other,11/6/2022
+463,thairathonline,Thairath Online,News & Politics,15000000.0,Thailand,10900.0,162.0,15.0,Other,11/3/2022
+464,TWICE,TWICE,Music & Dance,15000000.0,Philippines,545500.0,64900.00000000001,843.0,Movies,11/8/2022
+465,pognalishow,Дима Масленников,Video games,15000000.0,Russia,4800000.0,408600.0,18500.0,Other,11/2/2022
+466,Mariale,Mariale,Other,15000000.0,Mexico,73500.0,4100.0,210.0,Other,11/16/2022
+467,RiotGamesInc,League of Legends,Movies,15000000.0,United States,1400000.0,48200.0,3400.0,Animation,11/24/2022
+468,Niana Guerrero,Niana Guerrero,Music & Dance,15000000.0,Philippines,437600.0,18600.0,814.0,Humor,11/13/2022
+469,TeamFilmsBhojpuri,Team Films Bhojpuri,Music & Dance,15000000.0,India,16700.0,583.0,39.0,Movies,11/27/2022
+470,BollywoodClassics,Bollywood Classics,Music & Dance,15000000.0,India,22400.0,165.0,7.0,Other,11/12/2022
+471,unknown boy varun,unknown boy varun,Music & Dance,15000000.0,India,4500000.0,589000.0,572.0,Other,11/9/2022
+472,LinusTechTips,Linus Tech Tips,Science & Technology,15000000.0,United States,1400000.0,62900.0,2800.0,Other,11/11/2022
+473,Dave and Ava - Nursery Rhymes and Baby Songs,Dave and Ava - Nursery Rhymes and Baby Songs,Education,15000000.0,Unknown,102500.0,395.0,0.0,Other,11/12/2022
+474,Lachlan,Lachlan,Video games,14800000.0,United States,333000.0,15900.0,327.0,Other,11/19/2022
+475,zncoficial,Zé Neto e Cristiano,Other,14800000.0,Brazil,18900.0,1600.0,21.0,Other,11/26/2022
+476,ERB,ERB,Music & Dance,14800000.0,United States,2400000.0,167200.0,20900.0,Animation,11/10/2022
+477,kwebbelkop,Kwebbelkop,Animation,14800000.0,United States,68300.0,1600.0,188.0,Video games,11/20/2022
+478,Alan Chikin Chow,Alan Chikin Chow,Other,14800000.0,India,4600000.0,138800.0,245.0,Other,11/4/2022
+479,Totoy kids - Español,Totoy kids - Español,Toys,14800000.0,Unknown,50400.0,1300.0,0.0,Other,11/24/2022
+480,jemproducoes,Jorge & Mateus Oficial,Music & Dance,14800000.0,Brazil,16600.0,921.0,34.0,Other,11/18/2022
+481,iTownGamePlay,iTownGamePlay *Terror&Diversión*,News & Politics,14800000.0,Mexico,65800.0,4400.0,178.0,Other,11/14/2022
+482,majorlazer,Major Lazer Official,Music & Dance,14800000.0,United States,13300.0,574.0,13.0,Movies,11/10/2022
+483,It's Mamix,It's Mamix,DIY & Life Hacks,14800000.0,Russia,3900000.0,230100.0,8600.0,Other,11/18/2022
+484,ChallengeAcceptedInc,Aphmau,Animation,14800000.0,United States,2300000.0,54900.0,3500.0,Video games,11/2/2022
+485,Johny FamilyShow,Johny FamilyShow,Music & Dance,14800000.0,Unknown,95000.0,257.0,0.0,Toys,11/25/2022
+486,Daftar Populer,Daftar Populer,News & Politics,14800000.0,Indonesia,49200.0,1100.0,92.0,Other,11/8/2022
+487,Planeta das Gêmeas,Planeta das Gêmeas,Toys,14800000.0,Unknown,539800.0,23500.0,56.0,Other,11/10/2022
+488,Zach King,Zach King,Movies,14800000.0,United States,1300000.0,28500.0,2700.0,Humor,11/19/2022
+489,Mobile Legends: Bang Bang Official,Mobile Legends: Bang Bang Official,Movies,14700000.0,Indonesia,599700.0,3600.0,48.0,Animation,11/25/2022
+490,MSA previously My Story Animated,MSA previously My Story Animated,Animation,14700000.0,United States,6400000.0,164100.0,5000.0,Humor,11/13/2022
+491,les boys tv2,les boys tv2,Sports,14700000.0,France,49700.0,0.0,0.0,Other,11/4/2022
+492,XpressTV,XpressTV,Science & Technology,14700000.0,Mexico,1100000.0,42200.0,380.0,Other,11/8/2022
+493,Maha Fun Tv,Maha Fun Tv,Other,14700000.0,India,958200.0,6000.0,244.0,Other,11/27/2022
+494,LEGENDA FUNK,LEGENDA FUNK,Music & Dance,14600000.0,Brazil,3800.0,224.0,6.0,Animation,11/14/2022
+495,Arif muhammad,Arif muhammad,Music & Dance,14600000.0,Indonesia,2600000.0,65600.0,2100.0,Movies,11/26/2022
+496,حقائق وأسرار,حقائق وأسرار,Other,14600000.0,Egypt,20500.0,1100.0,55.0,Other,11/18/2022
+497,Unspeakable,Unspeakable,Video games,14600000.0,United States,3900000.0,59600.0,5600.0,Humor,11/2/2022
+498,IDEIAS INCRÍVEIS,IDEIAS INCRÍVEIS,Other,14600000.0,Brazil,11500.0,182.0,5.0,Other,11/6/2022
+499,FueledByRamen,Fueled By Ramen,Other,14600000.0,United States,82400.0,1800.0,119.0,Other,11/4/2022
+500,Taarak Mehta Ka Ooltah Chashmah,Taarak Mehta Ka Ooltah Chashmah,Other,14600000.0,India,161800.0,2900.0,48.0,Other,11/23/2022
+501,MattyBRaps,MattyBRaps,Music & Dance,14600000.0,United States,27500.0,735.0,0.0,Movies,11/21/2022
+502,IISuperwomanII,Lilly Singh,Animation,14600000.0,United States,43000.0,2400.0,71.0,Humor,11/11/2022
+503,collegehumor,CollegeHumor,Movies,14600000.0,United States,251100.0,17200.0,600.0,Humor,11/9/2022
+504,zeefilmimusic,Zee Music Classic,Other,14600000.0,India,3500.0,55.0,2.0,Other,11/8/2022
+505,PlayStation,PlayStation,Other,14600000.0,United States,33300.0,1200.0,112.0,Other,11/11/2022
+506,Drawblogs,Drawblogs,Movies,14600000.0,Mexico,221500.0,3200.0,134.0,Animation,11/15/2022
+507,CNN,CNN,Music & Dance,14600000.0,United States,259500.0,3600.0,1800.0,Animation,11/12/2022
+508,UFC,UFC - Ultimate Fighting Championship,Sports,14600000.0,United States,63200.0,1400.0,239.0,Other,11/21/2022
+509,Genierock,Genierock,Music & Dance,14600000.0,Thailand,327600.0,8300.0,315.0,Other,11/29/2022
+510,Canal Nostalgia,Canal Nostalgia,Science & Technology,14600000.0,Unknown,44900.0,6100.0,155.0,Other,11/7/2022
+511,Azhan5star,Azhan5star,Other,14500000.0,India,453000.0,25900.0,89.0,Other,11/7/2022
+512,Tsuriki Show,Tsuriki Show,Other,14500000.0,India,180600.0,5800.0,8.0,Other,11/29/2022
+513,Gyan Gamingㅤ,Gyan Gamingㅤ,Other,14500000.0,India,233800.0,24600.0,403.0,Other,11/28/2022
+514,Boram Tube ToysReview [보람튜브 토이리뷰],Boram Tube ToysReview [보람튜브 토이리뷰],Daily vlogs,14400000.0,Unknown,16800.0,154.0,0.0,Other,11/28/2022
+515,TheABSCBNNews,ABS-CBN News,News & Politics,14400000.0,Philippines,6300.0,51.0,5.0,Other,11/10/2022
+516,Super Polina,Super Polina,Other,14400000.0,Russia,1700.0,16.0,0.0,Other,11/23/2022
+517,chadwildclay,Chad Wild Clay,Movies,14400000.0,United States,1100000.0,24800.0,4400.0,Humor,11/12/2022
+518,MartinGarrix,Martin Garrix,Music & Dance,14400000.0,United States,35200.0,3300.0,73.0,Other,11/7/2022
+519,PANDA BOI,PANDA BOI,Other,14400000.0,India,2300000.0,235200.0,3400.0,Other,11/12/2022
+520,Blippi Español,Blippi Español,Toys,14400000.0,Unknown,167400.0,747.0,0.0,Education,11/25/2022
+521,O Canal do Joãozinho - Little Angel Português,O Canal do Joãozinho - Little Angel Português,Animation,14400000.0,Unknown,514700.00000000006,2900.0,0.0,Other,11/20/2022
+522,Daily Dose Of Internet,Daily Dose Of Internet,Animals & Pets,14400000.0,United States,6000000.0,279200.0,8000.0,Other,11/4/2022
+523,Pragati Verma Shorts,Pragati Verma Shorts,Other,14300000.0,India,2200000.0,139900.0,656.0,Other,11/24/2022
+524,A2 Motivation by Arvind Arora,A2 Motivation by Arvind Arora,Other,14300000.0,India,288100.0,40300.0,161.0,Other,11/7/2022
+525,انصالة فاميلي I أنس و أصالة,انصالة فاميلي I أنس و أصالة,Other,14300000.0,Egypt,1200000.0,104500.0,3200.0,Other,11/25/2022
+526,CH8vdo,ช่อง8 : Thai Ch8,Other,14300000.0,Thailand,2300.0,26.0,0.0,Other,11/29/2022
+527,fcbarcelona,FC Barcelona,Sports,14200000.0,United States,119200.0,7900.0,185.0,Other,11/2/2022
+528,Трум Трум,Трум Трум,Humor,14200000.0,Unknown,324600.0,3100.0,179.0,Toys,11/7/2022
+529,inventonahoratv,Invento na Hora,Animation,14200000.0,Brazil,827200.0,111500.0,1700.0,Humor,11/16/2022
+530,DM - Desi Melodies,DM - Desi Melodies,Music & Dance,14200000.0,India,54200.0,2300.0,108.0,Other,11/7/2022
+531,camilaloures,Camila Loures,Movies,14200000.0,Brazil,186400.0,17000.0,297.0,Humor,11/25/2022
+532,Vlad and Niki ARA,Vlad and Niki ARA,Other,14200000.0,Unknown,82200.0,858.0,0.0,Other,11/15/2022
+533,EdisonPts,EdisonPts,Video games,14200000.0,Russia,1800000.0,126800.0,5500.0,Other,11/14/2022
+534,crashcourse,CrashCourse,Science & Technology,14200000.0,United States,40800.0,2400.0,165.0,Other,11/30/2022
+535,OfficialTrapCity,Trap City,Music & Dance,14200000.0,United States,22600.0,1200.0,46.0,Other,11/16/2022
+536,Kim Loaiza,Kim Loaiza,Music & Dance,14200000.0,Mexico,28600000.0,1100000.0,104700.0,Other,11/18/2022
+537,MazhavilManorama,Mazhavil Manorama,Other,14200000.0,India,26200.0,299.0,8.0,Other,11/4/2022
+538,MasterskayaNastroeny,Мастерская Настроения,Movies,14200000.0,Russia,294000.0,6500.0,143.0,Video games,11/6/2022
+539,Doc Tops,Doc Tops,Animation,14200000.0,Mexico,403000.0,22900.0,448.0,Other,11/4/2022
+540,whoisjimmy,How Ridiculous,Video games,14200000.0,United States,359100.0,13800.0,89.0,Other,11/6/2022
+541,#Refugio Mental,#Refugio Mental,Movies,14200000.0,Argentina,262700.0,4000.0,67.0,Other,11/3/2022
+542,Hongyu ASMR 홍유,Hongyu ASMR 홍유,ASMR,14100000.0,United States,620800.0,12000.0,369.0,Other,11/1/2022
+543,Akshay Nagwadiya,Akshay Nagwadiya,Other,14100000.0,India,1300000.0,80200.0,412.0,Other,11/2/2022
+544,MY FAMILY,MY FAMILY,Other,14100000.0,India,895700.0,4500.0,105.0,Other,11/19/2022
+545,Sagawa /さがわ,Sagawa /さがわ,Other,14100000.0,United States,164700.0,1500.0,34.0,Other,11/29/2022
+546,mispastelitosyoutub,Mis Pastelitos,Food & Drinks,14000000.0,Mexico,510400.0,24600.0,1400.0,Other,11/23/2022
+547,Auron,Auron,Video games,14000000.0,Mexico,1500000.0,83800.0,1400.0,Other,11/18/2022
+548,MNCTVOfficial,MNCTV OFFICIAL,Music & Dance,14000000.0,Indonesia,3400.0,68.0,3.0,Other,11/20/2022
+549,bomberball,Bie The Ska,Other,14000000.0,Thailand,310700.0,11000.0,468.0,Other,11/5/2022
+550,AM3NlC,AM3NlC,Food & Drinks,14000000.0,Brazil,228300.0,26600.0,354.0,Other,11/18/2022
+551,F2Freestylers,F2Freestylers - Ultimate Soccer Skills Channel,Sports,14000000.0,United Kingdom,408500.0,17500.0,381.0,Other,11/24/2022
+552,NikkieTutorials,NikkieTutorials,Design/art,14000000.0,United States,353800.0,20500.0,491.0,Beauty,11/23/2022
+553,RosannaPansino,Rosanna Pansino,DIY & Life Hacks,14000000.0,United States,81600.0,5700.0,67.0,Other,11/9/2022
+554,Spider Slack,Spider Slack,Other,14000000.0,Brazil,821800.0,98900.0,181.0,Other,11/15/2022
+555,SrtaLynaV,Lyna,Movies,14000000.0,Mexico,340700.0,18500.0,994.0,Animation,11/23/2022
+556,Aadishakti Films,Aadishakti Films,Music & Dance,14000000.0,Unknown,25300.0,1200.0,124.0,Other,11/13/2022
+557,5-Minute Crafts Recycle,5-Minute Crafts Recycle,Other,13900000.0,India,36800.0,293.0,9.0,Other,11/19/2022
+558,gmmchannel,GMM25Thailand,Other,13900000.0,Thailand,1700.0,53.0,1.0,Other,11/27/2022
+559,ADEL et SAMI,ADEL et SAMI,Music & Dance,13900000.0,France,33900.0,176.0,0.0,Humor,11/29/2022
+560,NehaKakkarOfficial,Neha Kakkar,Music & Dance,13900000.0,India,496100.0,34900.0,399.0,Other,11/17/2022
+561,Harry Styles,Harry Styles,Music & Dance,13900000.0,United States,718500.0,122600.0,5900.0,Other,11/23/2022
+562,Zig & Sharko,Zig & Sharko,Other,13800000.0,Unknown,75400.0,762.0,0.0,Other,11/11/2022
+563,dangmattsmith,DangMattSmith,Animation,13800000.0,Unknown,170500.0,5800.0,977.0,Humor,11/26/2022
+564,vetealaversha,Darkar Company Studios,Animation,13800000.0,Mexico,310300.0,43800.0,2800.0,Video games,11/9/2022
+565,ABCNews,ABC News,News & Politics,13800000.0,United States,11200.0,130.0,109.0,Other,11/30/2022
+566,NOBRU,NOBRU,Video games,13800000.0,Brazil,273700.0,27400.0,124.0,Toys,11/11/2022
+567,TazerCraft,TazerCraft,Movies,13800000.0,Brazil,211100.0,15900.0,859.0,Animation,11/13/2022
+568,The MriDul,The MriDul,Other,13800000.0,India,5600000.0,239700.0,14500.0,Other,11/24/2022
+569,MAIKI021,MAIKI021,Movies,13800000.0,Brazil,17800.0,2400.0,70.0,Animation,11/22/2022
+570,telemundotv,Telemundo,Other,13800000.0,Argentina,7700.0,346.0,13.0,Other,11/15/2022
+571,ГЛЕНТ,ГЛЕНТ,Video games,13700000.0,Russia,2300000.0,164500.0,6400.0,Other,11/11/2022
+572,Dear Sir,Dear Sir,Education,13700000.0,India,95300.0,6300.0,733.0,Other,11/8/2022
+573,Wish 107.5,Wish 107.5,Music & Dance,13600000.0,Philippines,32000.0,942.0,95.0,Other,11/2/2022
+574,WWWengie,Wengie,DIY & Life Hacks,13600000.0,United States,35000.0,2600.0,55.0,Other,11/9/2022
+575,ZEE5,ZEE5,Other,13600000.0,India,416.0,4.0,0.0,Other,11/23/2022
+576,SRKASSAMESE,SRK MUSIC,Music & Dance,13600000.0,India,109300.0,7400.0,131.0,Other,11/1/2022
+577,KompasTVNews,KOMPASTV,News & Politics,13600000.0,Indonesia,4500.0,44.0,13.0,Other,11/22/2022
+578,Infobells Bangla,Infobells Bangla,Education,13600000.0,Unknown,42300.0,162.0,0.0,Other,11/6/2022
+579,Narins Beauty,Narins Beauty,Other,13600000.0,Iraq,1900000.0,132000.0,10300.0,Other,11/13/2022
+580,TV Ana Emilia,TV Ana Emilia,Other,13600000.0,Mexico,187200.0,9100.0,337.0,Other,11/30/2022
+581,jordanmatter,Jordan Matter,Music & Dance,13600000.0,United States,4900000.0,80800.0,7800.0,Humor,11/25/2022
+582,OReinho,O Reino Infantil,Music & Dance,13600000.0,Unknown,53200.0,221.0,0.0,Other,11/23/2022
+583,Like Nastya Stories,Like Nastya Stories,Other,13600000.0,Unknown,179700.0,1200.0,0.0,Other,11/22/2022
+584,HusamYK,Katakit Baby TV,Music & Dance,13600000.0,Saudi Arabia,80800.0,802.0,0.0,Other,11/26/2022
+585,FAPtivi,FAPTV,Animation,13600000.0,United States,2400000.0,41800.0,719.0,Humor,11/10/2022
+587,Coke Studio,Coke Studio,Music & Dance,13600000.0,Pakistan,46700.0,1300.0,81.0,Movies,11/15/2022
+588,The World Adventures हिन्दी,The World Adventures हिन्दी,Daily vlogs,13600000.0,Unknown,10700.0,668.0,28.0,Other,11/4/2022
+589,bandagarotasafada,Wesley Safadão,Music & Dance,13600000.0,Brazil,3200000.0,25800.0,370.0,Other,11/14/2022
+590,boplayhard,PlayHard,Other,13600000.0,Brazil,136800.0,13200.0,123.0,Other,11/4/2022
+591,123 GO! Spanish,123 GO! Spanish,Animation,13500000.0,Mexico,234600.0,2500.0,49.0,Other,11/7/2022
+592,bbcnews,BBC News,News & Politics,13500000.0,United States,120200.0,1700.0,891.0,Other,11/12/2022
+593,AtlanticVideos,Atlantic Records,Music & Dance,13500000.0,United States,7600.0,335.0,4.0,Other,11/21/2022
+594,Online Job,Online Job,Other,13500000.0,India,6800.0,166.0,26.0,Other,11/26/2022
+595,lindseystomp,Lindsey Stirling,Music & Dance,13400000.0,United States,175500.0,9400.0,131.0,Movies,11/13/2022
+596,hamaarbhojpuri,T-Series Hamaar Bhojpuri,Music & Dance,13400000.0,India,7700.0,256.0,26.0,Other,11/9/2022
+597,MyMissAnand,MyMissAnand,Movies,13400000.0,India,1200000.0,25800.0,0.0,Humor,11/14/2022
+598,AzzyLand,AzzyLand,Animation,13400000.0,United States,58300.0,4000.0,654.0,Other,11/24/2022
+599,Ben Azelart,Ben Azelart,Video games,13400000.0,United States,4700000.0,118200.0,8400.0,Humor,11/15/2022
+600,Bispo Bruno Leonardo,Bispo Bruno Leonardo,Music & Dance,13400000.0,Brazil,1300000.0,391200.0,322400.0,Other,11/15/2022
+601,PowerfulJRE,PowerfulJRE,Daily vlogs,13400000.0,United States,1200000.0,22000.0,4800.0,Other,11/8/2022
+602,H2ODelirious,H2ODelirious,Animation,13400000.0,United States,93400.0,5500.0,260.0,Video games,11/30/2022
+603,ETV Jabardasth,ETV Jabardasth,Other,13400000.0,India,78200.0,1400.0,26.0,Other,11/20/2022
+604,Marta and Rustam,Marta and Rustam,Other,13300000.0,India,665200.0,27600.0,59.0,Other,11/17/2022
+605,RayWilliamJohnson,Ray William Johnson,Animation,13300000.0,United States,2100000.0,188600.0,2200.0,Humor,11/9/2022
+606,Yoeslan,Yoeslan,Other,13300000.0,India,1700000.0,40100.0,68.0,Other,11/27/2022
+607,Desi Gamers,Desi Gamers,Other,13300000.0,India,504000.0,77800.0,4400.0,Other,11/12/2022
+608,iloveindianmakeup,Anaysa,Movies,13200000.0,India,794600.0,18200.0,616.0,Humor,11/11/2022
+609,The Q,The Q,Other,13200000.0,United States,419500.0,11300.0,611.0,Other,11/9/2022
+610,theRadBrad,theRadBrad,Video games,13200000.0,United States,129000.0,7700.0,781.0,Other,11/11/2022
+611,Sony Music South,Sony Music South,Movies,13200000.0,India,30300.0,633.0,21.0,Animation,11/22/2022
+612,PozzitifonShow,Поззи,Video games,13200000.0,Russia,579200.0,22300.0,1300.0,Other,11/25/2022
+613,skillzaisherebooya,Conor Maynard,Music & Dance,13200000.0,United States,594100.0,30700.0,1200.0,Other,11/27/2022
+614,The LaBrant Fam,The LaBrant Fam,Music & Dance,13200000.0,United States,814700.0,25200.0,0.0,Humor,11/4/2022
+615,SaturdayNightLive,Saturday Night Live,Movies,13200000.0,United States,115500.0,4200.0,165.0,Humor,11/21/2022
+616,NishaMadhulika,NishaMadhulika,Food & Drinks,13200000.0,India,185400.0,4100.0,673.0,Other,11/23/2022
+617,CrazyFrogVEVO,Crazy Frog,Music & Dance,13200000.0,United States,0.0,0.0,0.0,Animation,11/9/2022
+618,disneyjunior,Disney Junior,Music & Dance,13200000.0,Unknown,74400.0,213.0,0.0,Other,11/18/2022
+619,Narendra Modi,Narendra Modi,Science & Technology,13100000.0,India,16300.0,865.0,60.0,News & Politics,11/17/2022
+620,Zeinab Harake,Zeinab Harake,Daily vlogs,13100000.0,Philippines,2300000.0,117300.0,2700.0,Other,11/8/2022
+621,Alex Gonzaga Official,Alex Gonzaga Official,Music & Dance,13100000.0,Philippines,2100000.0,69400.0,2600.0,Humor,11/14/2022
+622,StudyIQ IAS,StudyIQ IAS,Education,13000000.0,India,10800.0,492.0,13.0,Other,11/8/2022
+623,rebeccazamolo1,Rebecca Zamolo,Video games,13000000.0,United States,3800000.0,71900.0,3300.0,Humor,11/27/2022
+624,tseriesregional,T-Series Regional,Music & Dance,13000000.0,India,4500.0,82.0,8.0,Other,11/8/2022
+625,RedeTVhdBrasil,RedeTV,News & Politics,13000000.0,Brazil,3300.0,124.0,3.0,Other,11/14/2022
+626,zeetvtelugu,Zee Telugu,Other,13000000.0,India,9000.0,124.0,2.0,Other,11/27/2022
+627,BBC,BBC,Movies,13000000.0,United Kingdom,27200.0,685.0,22.0,Other,11/25/2022
+628,MattSDance,Matt Steffanina,Music & Dance,13000000.0,United States,99700.0,4700.0,96.0,Movies,11/27/2022
+629,JDCav24,ATHLEAN-X™,Fitness,13000000.0,United States,210300.0,11400.0,1100.0,Health & Self Help,11/29/2022
+630,ماشا و الدب,ماشا و الدب,Other,13000000.0,Unknown,683300.0,5800.0,0.0,Other,11/16/2022
+631,typicalgamer,Typical Gamer,Video games,13000000.0,United States,275000.0,9200.0,396.0,Other,11/19/2022
+632,LeoNata Family,LeoNata Family,Other,13000000.0,United States,45300.0,303.0,8.0,Other,11/23/2022
+633,Crescendo com Luluca,Crescendo com Luluca,Toys,13000000.0,Brazil,508700.0,31500.0,2300.0,Other,11/3/2022
+634,O Que Não Dizer Oficial,O Que Não Dizer Oficial,Movies,13000000.0,Brazil,49200.0,5200.0,33.0,Animation,11/3/2022
+635,VexTrex,VexTrex,Other,13000000.0,Unknown,60000.0,0.0,0.0,Other,11/7/2022
+636,einerdtv,Ei Nerd,Movies,13000000.0,Brazil,286900.0,42300.0,1200.0,Animation,11/7/2022
+637,jazzghost1,Jazzghost,Animation,13000000.0,Brazil,598200.0,44600.0,1700.0,Video games,11/21/2022
+638,MstrJames,Hacksmith,Video games,13000000.0,United States,134600.0,7400.0,117.0,Other,11/4/2022
+639,Lady Diana,Lady Diana,Music & Dance,13000000.0,Russia,1900000.0,63600.0,2300.0,Other,11/14/2022
+640,أترو/Atro,أترو/Atro,Other,12900000.0,Iraq,402900.0,49500.0,5400.0,Other,11/10/2022
+641,Juliana Baltar,Juliana Baltar,Movies,12900000.0,Brazil,326000.0,16000.0,596.0,Humor,11/17/2022
+642,karameeshchannel,karameeshchannel,Music & Dance,12800000.0,Jordan,196000.0,1500.0,0.0,Other,11/25/2022
+643,MusicTalentNow,Top Viral Talent,Other,12800000.0,United States,18900.0,322.0,10.0,Other,11/16/2022
+644,JOJO TV - Hindi Stories,JOJO TV - Hindi Stories,Other,12800000.0,India,53600.0,394.0,0.0,Other,11/22/2022
+645,GoldClassics,Goldmines Premiere,Other,12800000.0,Unknown,5200.0,123.0,0.0,Other,11/6/2022
+646,MrSuicideSheep,MrSuicideSheep,Other,12800000.0,United States,45700.0,2500.0,46.0,Other,11/3/2022
+647,#Refúgio Mental,#Refúgio Mental,Movies,12800000.0,Brazil,142100.0,4900.0,52.0,Animation,11/11/2022
+648,gymvirtual,gymvirtual,Music & Dance,12800000.0,Mexico,87000.0,3400.0,54.0,Other,11/13/2022
+649,storybots,Netflix Jr.,Animation,12800000.0,Unknown,16800.0,105.0,0.0,Humor,11/16/2022
+650,Knowledge Tv हिन्दी,Knowledge Tv हिन्दी,Education,12800000.0,India,37300.0,1600.0,69.0,Other,11/30/2022
+651,zeebangla,Zee Bangla,Other,12800000.0,India,5100.0,56.0,0.0,Other,11/8/2022
+652,awakeningrecords,Awakening Music,Music & Dance,12800000.0,Indonesia,14200.0,1500.0,45.0,Other,11/29/2022
+653,MrSirpirriplin,Ami Rodriguez,Other,12800000.0,Colombia,1300000.0,147200.0,327.0,Other,11/23/2022
+654,BIBO와 장난감,BIBO와 장난감,Other,12800000.0,Unknown,36400.0,0.0,0.0,Other,11/29/2022
+655,Mythpat,Mythpat,Other,12700000.0,India,1600000.0,180000.0,10100.0,Other,11/7/2022
+656,Health Time,Health Time,Daily vlogs,12700000.0,India,5500.0,205.0,8.0,Other,11/6/2022
+657,Blossom,Blossom,Other,12600000.0,United States,18800.0,348.0,7.0,Other,11/21/2022
+658,Blockbuster Movies,Blockbuster Movies,Daily vlogs,12600000.0,India,85700.0,563.0,11.0,Other,11/5/2022
+659,Brawl Stars,Brawl Stars,Animation,12600000.0,United States,852700.0,58500.0,1600.0,Other,11/30/2022
+660,thinkmusicindia,Think Music India,Music & Dance,12600000.0,India,57000.0,2400.0,23.0,Other,11/18/2022
+661,Kabita's Kitchen,Kabita's Kitchen,Other,12600000.0,India,140000.0,4100.0,387.0,Other,11/12/2022
+662,gmanews,GMA News,News & Politics,12600000.0,Philippines,2500.0,27.0,5.0,Other,11/20/2022
+663,kidstvindia,Kids TV India Hindi Nursery Rhymes,Education,12600000.0,Unknown,112100.0,604.0,0.0,Other,11/29/2022
+664,Come Play With Me,Come Play With Me,Toys,12600000.0,Unknown,920800.0,0.0,0.0,Other,11/3/2022
+665,Melon City Show - برنامج ولاية بطيخ,Melon City Show - برنامج ولاية بطيخ,Other,12600000.0,Iraq,217600.0,13700.0,183.0,Other,11/30/2022
+666,AdexeOficial,Adexe & Nau,Music & Dance,12600000.0,Mexico,23300.0,2400.0,147.0,Other,11/30/2022
+667,TheDodoSite,The Dodo,Animals & Pets,12600000.0,United States,256200.0,13500.0,608.0,Other,11/7/2022
+668,runway19co,KOYA with,Toys,12600000.0,Unknown,29500.0,841.0,0.0,Education,11/18/2022
+669,Trakin Tech,Trakin Tech,News & Politics,12600000.0,India,325500.0,22700.0,1400.0,Other,11/7/2022
+670,1032010814,TKOR,DIY & Life Hacks,12600000.0,United States,40400.0,1200.0,74.0,Other,11/18/2022
+671,FIFATV,FIFA,Sports,12600000.0,United States,21200.0,1000.0,45.0,Other,11/27/2022
+672,canalparafernalha,Parafernalha,Other,12600000.0,Brazil,11300.0,821.0,9.0,Other,11/26/2022
+673,TheInfographicsShow,The Infographics Show,Education,12600000.0,United States,307500.0,12700.0,661.0,Other,11/11/2022
+674,caseyneistat,CaseyNeistat,Daily vlogs,12600000.0,United States,1400000.0,87400.0,5300.0,Other,11/16/2022
+675,Piuzinho,Piuzinho,Animation,12600000.0,Brazil,239900.0,60800.0,1600.0,Humor,11/7/2022
+676,My Mate Nate,My Mate Nate,Other,12600000.0,Thailand,1500000.0,48700.0,1100.0,Other,11/8/2022
+677,OficialPeppa,Peppa Pig em Português Brasil - Canal Oficial,Movies,12500000.0,Unknown,400400.0,3000.0,0.0,Animation,11/14/2022
+678,Jamuna TV,Jamuna TV,News & Politics,12500000.0,Bangladesh,18400.0,550.0,39.0,Other,11/13/2022
+679,Meghan Trainor,Meghan Trainor,Music & Dance,12500000.0,United States,86200.0,4600.0,113.0,Other,11/28/2022
+680,Codiscos,Codiscos,Music & Dance,12500000.0,Unknown,15600.0,275.0,11.0,Other,11/29/2022
+681,Troom Troom India,Troom Troom India,Other,12500000.0,India,171500.0,1500.0,32.0,Other,11/26/2022
+682,elliegoulding,elliegoulding,Music & Dance,12500000.0,United States,16900.0,1100.0,49.0,Other,11/14/2022
+683,IShowSpeed,IShowSpeed,Video games,12500000.0,United States,2300000.0,101700.0,3000.0,Humor,11/12/2022
+684,Troom Troom PT,Troom Troom PT,Toys,12500000.0,Brazil,55700.0,1300.0,21.0,Other,11/13/2022
+685,LOUD,LOUD,Other,12500000.0,Brazil,118300.0,13600.0,337.0,Other,11/11/2022
+686,TalkingAngelaCat,Talking Angela,Other,12500000.0,United States,4000000.0,1900.0,0.0,Other,11/13/2022
+687,DeGoBooM,DeGoBooM,Movies,12400000.0,Mexico,166500.0,5600.0,48.0,Animation,11/1/2022
+688,geonews,Geo News,News & Politics,12400000.0,Pakistan,5700.0,80.0,8.0,Other,11/14/2022
+689,htbhakti,Sonotek Bhakti,Music & Dance,12400000.0,India,26500.0,609.0,37.0,Other,11/10/2022
+690,TastyCompot,Compot,Video games,12400000.0,Russia,1200000.0,50300.0,1900.0,Other,11/8/2022
+691,Gibby :),Gibby :),Movies,12400000.0,Mexico,52100.0,3600.0,307.0,Other,11/25/2022
+692,LittleBabyBumEspanol,Little Baby Bum en Español,Education,12400000.0,Unknown,12600.0,42.0,0.0,Other,11/23/2022
+693,React,People Vs Food,Food & Drinks,12400000.0,United States,372500.0,15400.0,916.0,Other,11/18/2022
+694,Technology Gyan,Technology Gyan,Other,12400000.0,India,560000.0,41300.0,2000.0,Other,11/19/2022
+695,HZHtube Kids Fun,HZHtube Kids Fun,Animation,12400000.0,Unknown,75100.0,377.0,0.0,Toys,11/22/2022
+696,JustForLaughsTV,Just For Laughs Gags,Other,12400000.0,United States,33000.0,619.0,20.0,Other,11/30/2022
+697,Americanvogue,Vogue,Fashion,12400000.0,United States,662400.0,10400.0,234.0,Other,11/2/2022
+698,officialjassrecords,Jass Records,Music & Dance,12400000.0,India,146700.0,2500.0,139.0,Other,11/10/2022
+699,RaptorGamer,RaptorGamer,Animation,12400000.0,Mexico,302200.0,24300.0,714.0,Video games,11/12/2022
+700,E-MasterSensei,E-MasterSensei,Movies,12400000.0,Mexico,881100.0,54000.0,1000.0,Video games,11/1/2022
+701,DisneyChannelUK,DisneyChannelUK,Movies,12400000.0,Unknown,32100.0,793.0,0.0,Humor,11/8/2022
+703,officialfuturevideos,Future,Music & Dance,12300000.0,United States,152300.0,7600.0,376.0,Other,11/22/2022
+704,Its JoJo Siwa,Its JoJo Siwa,Music & Dance,12300000.0,Unknown,1100000.0,43100.0,905.0,Humor,11/15/2022
+705,TV9 Bharatvarsh,TV9 Bharatvarsh,News & Politics,12300000.0,India,5000.0,104.0,4.0,Other,11/7/2022
+706,Republic Bharat,Republic Bharat,News & Politics,12300000.0,India,4000.0,0.0,4.0,Other,11/19/2022
+707,Danny Fitt,Danny Fitt,Other,12300000.0,Mexico,391500.0,24700.0,123.0,Other,11/15/2022
+708,ndtv,NDTV,News & Politics,12200000.0,India,2700.0,30.0,7.0,Other,11/8/2022
+709,Más SKabeche,Más SKabeche,Other,12200000.0,Mexico,1100000.0,53900.0,1300.0,Other,11/13/2022
+710,Bela Bagunça,Bela Bagunça,Movies,12200000.0,Brazil,170600.0,5700.0,394.0,Animation,11/9/2022
+711,Yudist Ardhana,Yudist Ardhana,Movies,12200000.0,Indonesia,325600.0,8600.0,288.0,Other,11/15/2022
+712,BanderitaX,BanderitaX,Animation,12200000.0,Saudi Arabia,611600.0,55300.0,2300.0,Video games,11/12/2022
+713,TheDaniRep,DaniRep | +6 Vídeos Diarios De GTA 5 Online!,Animation,12200000.0,Mexico,60300.0,6600.0,26.0,Video games,11/1/2022
+714,lucygerardi43,Luli Pampín,Music & Dance,12200000.0,Unknown,1500000.0,4100.0,0.0,Animation,11/22/2022
+715,Mrwhosetheboss,Mrwhosetheboss,Science & Technology,12200000.0,United States,3600000.0,166600.0,7400.0,Other,11/24/2022
+716,Panda,Panda,Animation,12200000.0,India,472500.0,42300.0,1400.0,Toys,11/18/2022
+717,Rauw Alejandro,Rauw Alejandro,Music & Dance,12200000.0,Peru,941300.0,54000.0,361.0,Other,11/22/2022
+718,CHHOTU KI MASTI,CHHOTU KI MASTI,Other,12200000.0,India,7000000.0,58000.0,587.0,Other,11/10/2022
+719,N1Noobtubers,웃웃TwinsFromRussia,Daily vlogs,12200000.0,United States,73000.0,3000.0,14.0,Other,11/11/2022
+720,Indore Physical Academy,Indore Physical Academy,Other,12100000.0,India,69900.0,5500.0,95.0,Other,11/16/2022
+721,KapilComedyNights,Colors Rishtey,Other,12100000.0,India,4400.0,53.0,2.0,Other,11/14/2022
+722,WiederDude,WiederDude,Other,12100000.0,United States,1200000.0,18400.0,334.0,Other,11/17/2022
+723,Ice Cream Rolls,Ice Cream Rolls,Other,12100000.0,United States,42300.0,1500.0,106.0,Other,11/26/2022
+724,AvrilLavigne,Avril Lavigne,Music & Dance,12100000.0,United States,60400.0,3800.0,97.0,Other,11/30/2022
+725,tuzelity SHUFFLE,tuzelity SHUFFLE,Other,12100000.0,India,674600.0,46400.0,258.0,Other,11/17/2022
+726,RS 1313 SHORTS,RS 1313 SHORTS,Other,12100000.0,India,97400.0,3700.0,11.0,Other,11/2/2022
+727,YairAuriazul,Yair17,Movies,12100000.0,Mexico,176900.0,26400.0,675.0,Animation,11/2/2022
+728,Vlad and Niki PRT,Vlad and Niki PRT,Other,12100000.0,Unknown,467600.0,0.0,0.0,Other,11/27/2022
+729,Луномосик,Луномосик,Video games,12000000.0,Russia,292400.0,12200.0,581.0,Other,11/23/2022
+730,Lulu99,Lulu99,Other,12000000.0,Colombia,737600.0,34500.0,1800.0,Other,11/11/2022
+731,MrTimbaVk,Timba Vk,Animation,12000000.0,Mexico,846800.0,34900.0,848.0,Video games,11/10/2022
+732,Влад и Никита,Влад и Никита,Toys,12000000.0,Unknown,557000.0,2600.0,0.0,Other,11/23/2022
+733,TiempodeSol,Duo Tiempo De Sol,Music & Dance,12000000.0,Unknown,67200.0,388.0,0.0,Animation,11/2/2022
+734,infobellskannada,infobells - Kannada,Education,12000000.0,Unknown,167100.0,711.0,0.0,Other,11/2/2022
+735,colinfurze,colinfurze,Video games,12000000.0,United States,466600.0,15000.0,421.0,Other,11/17/2022
+736,Troom Troom Indonesia,Troom Troom Indonesia,Music & Dance,12000000.0,Indonesia,110300.0,1300.0,58.0,Movies,11/27/2022
+737,Natti Natasha,Natti Natasha,Music & Dance,12000000.0,United States,24400.0,2100.0,35.0,Other,11/24/2022
+738,emma chamberlain,emma chamberlain,Food & Drinks,12000000.0,United States,2400000.0,156000.0,4800.0,Other,11/19/2022
+739,Nat and Essie,Nat and Essie,Toys,12000000.0,United States,42200.0,1000.0,4.0,Other,11/17/2022
+740,eltreceok,El Trece,News & Politics,12000000.0,Unknown,4400.0,41.0,9.0,Other,11/22/2022
+741,Planet Earth INDIA,Planet Earth INDIA,Daily vlogs,12000000.0,India,40300.0,1500.0,91.0,Other,11/26/2022
+742,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Music & Dance,12000000.0,United States,719900.0,30000.0,1200.0,Other,11/23/2022
+743,Mor Haryanvi,Mor Haryanvi,Music & Dance,12000000.0,India,597100.0,10800.0,839.0,Other,11/25/2022
+744,办公室小野 Ms Yeah,办公室小野 Ms Yeah,Other,12000000.0,United States,443400.0,35800.0,29.0,Other,11/12/2022
+745,123 GO!,123 GO!,DIY & Life Hacks,11900000.0,United States,313700.0,2200.0,68.0,Other,11/16/2022
+746,CNCO,CNCO,Music & Dance,11900000.0,Mexico,14000.0,2500.0,81.0,Other,11/27/2022
+747,Kluna Tik,Kluna Tik,Other,11800000.0,United States,76100.0,1700.0,104.0,Other,11/24/2022
+748,elrubius,Rubius Z,Movies,11800000.0,Mexico,1300000.0,102700.0,1300.0,Animation,11/17/2022
+749,Hero Movies 2022,Hero Movies 2022,Daily vlogs,11800000.0,India,54000.0,422.0,7.0,Other,11/27/2022
+750,MrGear,MrGear,Other,11800000.0,United States,8600.0,191.0,28.0,Other,11/20/2022
+751,TTfue,Tfue,Animation,11800000.0,United States,116500.0,5100.0,150.0,Video games,11/29/2022
+752,MC Divertida,MC Divertida,Music & Dance,11800000.0,Unknown,201900.0,1500.0,0.0,Movies,11/26/2022
+753,FirstWeFeast,First We Feast,Food & Drinks,11800000.0,United States,122000.0,6000.0,262.0,Other,11/12/2022
+754,MORGENSHTERN,MORGENSHTERN,Music & Dance,11800000.0,Russia,1500000.0,145500.0,7200.0,Movies,11/20/2022
+755,PinkVideoVault,P!NK,Music & Dance,11800000.0,United States,52100.0,5200.0,174.0,Other,11/29/2022
+756,SBTonline,SBT,Other,11800000.0,Brazil,2800.0,167.0,3.0,Other,11/17/2022
+757,MashaBearUkraine,Маша та Ведмідь,Education,11800000.0,Unknown,195700.0,868.0,0.0,Other,11/23/2022
+758,Acenix,Acenix,Video games,11800000.0,Mexico,987100.0,69900.0,646.0,Other,11/24/2022
+759,Make Joke Of,Make Joke Of,Movies,11800000.0,India,7000000.0,428300.0,18900.0,Animation,11/24/2022
+760,GoldminesAction,GoldminesAction,Other,11800000.0,Unknown,8900.0,143.0,0.0,Other,11/5/2022
+761,FrontaL Gaming,FrontaL Gaming,Movies,11800000.0,Unknown,59000.0,2600.0,195.0,Animation,11/14/2022
+762,Koo Koo TV - Hindi,Koo Koo TV - Hindi,Other,11800000.0,India,185400.0,1900.0,48.0,Other,11/24/2022
+763,Garena Free Fire LATAM,Garena Free Fire LATAM,Other,11800000.0,Mexico,24900.0,2300.0,111.0,Other,11/2/2022
+764,blackeyedpeasvideo,Black Eyed Peas,Music & Dance,11700000.0,United States,17600.0,1100.0,20.0,Other,11/19/2022
+765,francoescamilla,Franco Escamilla,Other,11700000.0,Mexico,203700.0,13900.0,194.0,Other,11/5/2022
+766,penguinz0,penguinz0,Animation,11700000.0,United States,1900000.0,92700.0,6300.0,Video games,11/2/2022
+767,MTV2,Wild 'N Out,Music & Dance,11700000.0,United States,220200.0,5700.0,178.0,Humor,11/20/2022
+768,prantoniojunior,Pastor Antônio Júnior,Music & Dance,11700000.0,Brazil,296300.0,70600.0,6800.0,Other,11/8/2022
+769,الجانب المُشرق | Bright Side Arabic,الجانب المُشرق | Bright Side Arabic,Other,11600000.0,Egypt,17300.0,486.0,29.0,Other,11/8/2022
+770,CrazyRussianHacker,CrazyRussianHacker,Animation,11600000.0,United States,135400.0,5700.0,94.0,Toys,11/27/2022
+771,Lofi Girl,Lofi Girl,Music & Dance,11600000.0,United States,43400.0,1900.0,88.0,Other,11/20/2022
+772,FelipeViktor,LipaoGamer,Movies,11600000.0,Brazil,89400.0,5700.0,96.0,Animation,11/21/2022
+773,Quantum Tech HD,Quantum Tech HD,Other,11600000.0,United States,1700000.0,6800.0,195.0,Other,11/20/2022
+774,AlArabiya,AlArabiya العربية,News & Politics,11600000.0,Algeria,3200.0,55.0,9.0,Other,11/25/2022
+775,Biperysusamigos,Biper y sus Amigos,Music & Dance,11600000.0,Unknown,351700.0,0.0,0.0,Movies,11/3/2022
+776,pocoyotv,POCOYÓ en ESPAÑOL - Canal Oficial,Other,11600000.0,Unknown,122900.0,433.0,0.0,Other,11/23/2022
+777,Jaiden Animations,Jaiden Animations,Other,11600000.0,United States,3600000.0,288000.0,13400.0,Other,11/11/2022
+778,realannoyingorange,Annoying Orange,Movies,11600000.0,United States,143000.0,2900.0,556.0,Animation,11/2/2022
+779,Morgz,Morgz,Video games,11600000.0,Unknown,128199.99999999999,4800.0,793.0,Humor,11/6/2022
+780,Diana and Roma IND,Diana and Roma IND,Other,11600000.0,Unknown,275500.0,1400.0,0.0,Other,11/28/2022
+781,BBCEarth,BBC Earth,Other,11600000.0,United States,42800.0,1800.0,44.0,Other,11/28/2022
+782,hawkrecord,Single Track Studio,Music & Dance,11600000.0,India,553000.0,4800.0,418.0,Other,11/16/2022
+783,elcarteldesantatv,elcarteldesantatv,Music & Dance,11600000.0,Mexico,151100.0,9000.0,199.0,Other,11/29/2022
+784,VyQwaint,Vy Qwaint,Video games,11600000.0,United States,1500000.0,28100.0,4000.0,Humor,11/19/2022
+785,Pari's Lifestyle,Pari's Lifestyle,Daily vlogs,11500000.0,India,960700.0,11900.0,256.0,Other,11/13/2022
+786,Heidi y Zidane en español,Heidi y Zidane en español,Daily vlogs,11500000.0,Unknown,501400.0,2600.0,0.0,Other,11/20/2022
+787,bharatzkitchen HINDI,bharatzkitchen HINDI,Other,11500000.0,India,615400.0,10000.0,327.0,Other,11/8/2022
+788,sagar kalra (Shorts),sagar kalra (Shorts),Daily vlogs,11500000.0,India,2500000.0,430100.0,294.0,Other,11/25/2022
+789,Flowers Comedy,Flowers Comedy,Other,11500000.0,India,281100.0,3900.0,194.0,Other,11/29/2022
+790,Simone e Simaria,Simone e Simaria,Music & Dance,11500000.0,Brazil,0.0,0.0,0.0,Movies,11/9/2022
+791,CarryisLive,CarryisLive,Other,11400000.0,India,614100.0,50600.0,409.0,Other,11/21/2022
+792,ExpCaseros,ExpCaseros,DIY & Life Hacks,11400000.0,Spain,54000.0,1800.0,109.0,Food & Drinks,11/6/2022
+793,FilmTheorists,The Film Theorists,Movies,11400000.0,United States,1200000.0,79200.0,4700.0,Other,11/20/2022
+794,crackrockcandy,Maymo,Other,11400000.0,United States,89000.0,479.0,82.0,Other,11/23/2022
+795,hoiitsroi,Wassabi,Movies,11400000.0,United States,75700.0,4500.0,132.0,Humor,11/3/2022
+796,Star Casablanca | نجوم الدار البيضاء,Star Casablanca | نجوم الدار البيضاء,Music & Dance,11400000.0,Iraq,23300.0,1300.0,134.0,Other,11/17/2022
+797,UnspeakableGaming,UnspeakableReacts,Video games,11400000.0,United States,322000.0,6700.0,405.0,Other,11/20/2022
+798,Ishaan Ali 11,Ishaan Ali 11,Daily vlogs,11400000.0,India,3000000.0,294500.0,538.0,Other,11/3/2022
+799,Taylor RS,Taylor RS,Other,11400000.0,United States,95600.0,611.0,11.0,Other,11/26/2022
+800,epicfortnite,Fortnite,Movies,11400000.0,United States,177000.0,9000.0,377.0,Video games,11/1/2022
+801,قناة وناسة -  Wanasah TV,قناة وناسة -  Wanasah TV,Music & Dance,11400000.0,Unknown,1500000.0,10700.0,0.0,Other,11/19/2022
+802,watchcut,Cut,Humor,11400000.0,United States,427800.0,12300.0,578.0,Other,11/29/2022
+803,oyabakatousan,"Sen, Momo, Ai & Shii's Channel",Daily vlogs,11400000.0,Japan,68300.0,938.0,0.0,Other,11/2/2022
+804,CaptainSparklez,CaptainSparklez,Video games,11400000.0,United States,117000.0,10600.0,456.0,Other,11/16/2022
+805,ElRinconDeGiorgio,El Rincón De Giorgio,Video games,11400000.0,Spain,950600.0,134400.0,2300.0,Other,11/16/2022
+806,cbstvdinsideedition,Inside Edition,News & Politics,11400000.0,United States,103400.0,2800.0,431.0,Other,11/18/2022
+807,Ya - Alisa,Ya - Alisa,Other,11400000.0,Unknown,1700.0,13.0,0.0,Other,11/9/2022
+808,ToysPlay,ToysPlay,Animation,11400000.0,Unknown,358100.0,1600.0,0.0,Toys,11/9/2022
+809,luzugames,luzugames,Animation,11400000.0,Mexico,55100.0,6300.0,100.0,Video games,11/28/2022
+810,TheViralFeverVideos,The Viral Fever,Movies,11400000.0,India,623200.0,25600.0,823.0,Humor,11/9/2022
+811,BakLol Video,BakLol Video,Movies,11400000.0,India,727800.0,15700.0,954.0,Humor,11/30/2022
+812,Flamingo,Flamingo,Animation,11400000.0,United States,1500000.0,59300.0,6000.0,Video games,11/7/2022
+813,Avocado Couple I Crazy Comics,Avocado Couple I Crazy Comics,Other,11400000.0,United States,87300.0,785.0,31.0,Other,11/12/2022
+814,TWO SIDE GAMERS,TWO SIDE GAMERS,Other,11300000.0,India,359500.0,36700.0,1200.0,Other,11/19/2022
+815,Virgínia Fonseca,Virgínia Fonseca,Movies,11300000.0,Brazil,1000000.0,77100.0,1600.0,Humor,11/14/2022
+816,brancoala,Brancoala,Movies,11300000.0,Brazil,443200.0,8800.0,246.0,Animation,11/19/2022
+817,zeetamil,Zee Tamil,Other,11300000.0,India,54500.0,659.0,4.0,Other,11/25/2022
+818,HellomaphieMX,HellomaphieMX,Other,11200000.0,Mexico,72500.0,5000.0,23.0,Other,11/8/2022
+819,comedycentral,Comedy Central,Movies,11200000.0,United States,24600.0,895.0,51.0,Humor,11/25/2022
+820,RapGeniusVideo,Genius,Music & Dance,11200000.0,United States,23200.0,1000.0,136.0,Movies,11/6/2022
+821,Oum Walid,Oum Walid,Education,11200000.0,Algeria,266000.0,16800.0,1100.0,Other,11/26/2022
+822,Morphle TV,Morphle TV,Animation,11200000.0,Unknown,50400.0,252.0,0.0,Toys,11/30/2022
+823,barbie,Barbie,Other,11200000.0,Unknown,27500.0,301.0,0.0,Other,11/7/2022
+824,DemolitionRanch,DemolitionRanch,Video games,11200000.0,United States,982600.0,50100.0,5700.0,Other,11/12/2022
+825,doctruyencotich,Kênh Thiếu Nhi - BHMEDIA,Music & Dance,11200000.0,United States,17100.0,52.0,0.0,Animation,11/13/2022
+826,chotoonz,Chotoonz TV - Funny Cartoons for Kids,Other,11200000.0,Unknown,39900.0,0.0,0.0,Other,11/1/2022
+827,mrplotvideos,Mundo Bita,Music & Dance,11200000.0,Unknown,240500.0,1700.0,0.0,Movies,11/22/2022
+828,viihtubeoficial,Viih Tube,Other,11200000.0,Brazil,505500.0,28900.0,612.0,Other,11/22/2022
+829,OGGY,OGGY,Other,11200000.0,Unknown,155500.0,1700.0,0.0,Other,11/10/2022
+830,sagahits,SagaHits,Music & Dance,11200000.0,India,10200.0,521.0,69.0,Other,11/29/2022
+831,dednahype,dednahype,Other,11100000.0,United States,602700.0,13600.0,39.0,Other,11/19/2022
+832,Rachit Rojha,Rachit Rojha,Other,11100000.0,India,2600000.0,50700.0,3500.0,Other,11/13/2022
+833,Lycoman Facts,Lycoman Facts,Other,11100000.0,India,2000000.0,0.0,221.0,Other,11/20/2022
+834,Dobre Brothers,Dobre Brothers,Movies,11100000.0,United States,321400.0,14300.0,434.0,Humor,11/8/2022
+835,Jessica Jane,Jessica Jane,Food & Drinks,11100000.0,Indonesia,1200000.0,83800.0,2800.0,Other,11/20/2022
+836,Levinho,Levinho,Other,11100000.0,India,153200.0,14200.0,452.0,Other,11/6/2022
+837,aljazeerachannel,AlJazeera Channel قناة الجزيرة,News & Politics,11000000.0,Morocco,14100.0,222.0,55.0,Other,11/7/2022
+838,NirahuaMusic,Nirahua Music World,Other,11000000.0,India,1100000.0,15000.0,205.0,Other,11/28/2022
+839,MrGustavoParodias,Gustavo Paródias,Other,11000000.0,Brazil,250900.0,18900.0,81.0,Other,11/7/2022
+840,GamesEduUu,Games EduUu,Movies,11000000.0,Brazil,1200000.0,177000.0,5300.0,Toys,11/7/2022
+841,OYUNCAKOYNUYORUM,OYUNCAKOYNUYORUM,Other,11000000.0,Unknown,56200.0,238.0,0.0,Other,11/26/2022
+842,jpgameplayfull,JP Plays,Video games,11000000.0,Brazil,58900.0,4400.0,124.0,Other,11/21/2022
+843,NEXT9NEWS हर खबर आप तक,NEXT9NEWS हर खबर आप तक,News & Politics,11000000.0,India,7700.0,57.0,2.0,Other,11/24/2022
+844,telugufilmnagar,Telugu Filmnagar,Other,11000000.0,India,2600.0,47.0,1.0,Other,11/19/2022
+845,ctctv,СТС,Video games,11000000.0,Russia,101100.0,1100.0,47.0,Humor,11/27/2022
+846,pinkfongko,핑크퐁 (인기 동요・동화),Education,11000000.0,Algeria,32700.000000000004,469.0,0.0,Other,11/24/2022
+847,BIBO и Игрушки,BIBO и Игрушки,Animation,11000000.0,Unknown,24800.0,0.0,0.0,Toys,11/22/2022
+848,ExplosmEntertainment,ExplosmEntertainment,Movies,11000000.0,United States,131200.0,11100.0,157.0,Animation,11/10/2022
+849,XHuevaX,Hueva,Video games,11000000.0,Mexico,113200.0,4300.0,234.0,Other,11/25/2022
+850,Pen Multiplex,Pen Multiplex,Other,11000000.0,India,4200.0,27.0,1.0,Other,11/20/2022
+851,Slogomanify,Slogo,Video games,11000000.0,United States,280000.0,10700.0,466.0,Other,11/12/2022
+852,B4 Facts,B4 Facts,Other,11000000.0,India,295400.0,37500.0,104.0,Other,11/17/2022
+853,Ryan Trahan,Ryan Trahan,Humor,11000000.0,United States,9900000.0,944500.0,25100.0,Other,11/10/2022
+854,Vox,Vox,News & Politics,11000000.0,United States,297100.0,7600.0,371.0,Other,11/9/2022
+855,Peppa Pig Hindi,Peppa Pig Hindi,Education,11000000.0,Unknown,244500.0,1800.0,0.0,Other,11/7/2022
+856,HikakinTV,HikakinTV,Music & Dance,11000000.0,Japan,1200000.0,31800.0,1700.0,Humor,11/30/2022
+857,Milena Stepanienco - MILENINHA,Milena Stepanienco - MILENINHA,Movies,11000000.0,Brazil,122300.0,1100.0,0.0,Animation,11/5/2022
+858,rathorvideo,Rathore Cassettes,Other,11000000.0,India,5000.0,56.0,5.0,Other,11/3/2022
+859,OfficiallyAnneMarie,Anne-Marie,Music & Dance,11000000.0,India,32700.000000000004,3400.0,71.0,Other,11/6/2022
+860,videogyan,Videogyan Nursery Rhymes - Kids Songs & Cartoons,Animation,11000000.0,Unknown,28900.0,214.0,0.0,Other,11/16/2022
+861,Juanpa Zurita,Juanpa Zurita,Other,11000000.0,Mexico,890900.0,72600.0,3600.0,Other,11/8/2022
+862,zeeqindia,Zee Kids,Other,11000000.0,Unknown,14600.0,181.0,0.0,Other,11/24/2022
+863,RDCGujarati,RDC Gujarati,Music & Dance,11000000.0,India,9700.0,360.0,13.0,Other,11/2/2022
+864,설기양SULGI,설기양SULGI,ASMR,10900000.0,United States,528200.0,14400.0,478.0,Food & Drinks,11/2/2022
+865,Stray Kids,Stray Kids,Music & Dance,10900000.0,United States,856700.0,145200.0,1800.0,Movies,11/15/2022
+866,5-Minute Crafts LIKE,5-Minute Crafts LIKE,Other,10900000.0,India,7100.0,74.0,2.0,Other,11/25/2022
+867,Golemcito Games,Golemcito Games,Movies,10900000.0,Peru,164600.0,30100.0,120.0,Animation,11/12/2022
+868,BE AMAZED,BE AMAZED,Education,10900000.0,United States,365900.0,12100.0,579.0,Other,11/9/2022
+869,SEVENGERS,SEVENGERS,Other,10900000.0,India,3800000.0,488500.0,689.0,Other,11/24/2022
+870,historychannel,HISTORY,Movies,10900000.0,United States,75200.0,1500.0,98.0,Other,11/23/2022
+871,Sanjoy Das Official,Sanjoy Das Official,Other,10900000.0,India,201000.0,29500.0,251.0,Other,11/29/2022
+872,Troom Troom Arabic,Troom Troom Arabic,Other,10900000.0,Egypt,216700.0,2500.0,37.0,Other,11/28/2022
+873,Área Secreta,Área Secreta,Movies,10800000.0,Brazil,165300.0,18400.0,571.0,Other,11/11/2022
+874,Ceylin - H Official,Ceylin - H Official,Music & Dance,10800000.0,Turkey,409700.0,0.0,0.0,Other,11/16/2022
+875,WAMIndiaMovies,Wamindia Movies,Other,10800000.0,India,15600.0,199.0,7.0,Other,11/29/2022
+876,mirandasings08,Miranda Sings,Movies,10800000.0,United States,115800.0,9400.0,573.0,Humor,11/11/2022
+877,GIMS,GIMS,Music & Dance,10800000.0,France,308300.0,15700.0,704.0,Other,11/9/2022
+878,Experienced Mojaraba TV,Experienced Mojaraba TV,Health & Self Help,10800000.0,United States,12600.0,396.0,11.0,Food & Drinks,11/18/2022
+879,redbull,Red Bull,Sports,10800000.0,United States,35000.0,2000.0,25.0,Other,11/9/2022
+880,ChuChuTV Hindi,ChuChuTV Hindi,Education,10800000.0,Unknown,156300.0,1000.0,0.0,Other,11/19/2022
+881,hasanjr11,hasanjr11,Other,10800000.0,Indonesia,189100.0,2400.0,352.0,Other,11/6/2022
+882,Caso Cerrado,Caso Cerrado,Animation,10800000.0,Mexico,343400.0,2900.0,101.0,Other,11/2/2022
+883,ComedyShortsGamer,Deji,Animation,10800000.0,United Kingdom,1200000.0,48100.0,2500.0,Humor,11/3/2022
+884,PinaRecordsVideos,Pina Records,Music & Dance,10800000.0,Peru,1300000.0,41500.0,9100.0,Other,11/12/2022
+885,WarnerBrosPictures,Warner Bros. Pictures,Movies,10800000.0,United States,105800.0,4300.0,434.0,Animation,11/21/2022
+886,Google,Google,Other,10800000.0,United States,28500.0,623.0,0.0,Other,11/2/2022
+887,Primitive Technology,Primitive Technology,DIY & Life Hacks,10800000.0,United States,2000000.0,107800.0,5200.0,Other,11/4/2022
+888,Goldmines Housefull,Goldmines Housefull,Other,10800000.0,Unknown,7900.0,0.0,0.0,Other,11/23/2022
+889,TikTak Draw,TikTak Draw,Animation,10800000.0,Mexico,76500.0,5100.0,211.0,Other,11/22/2022
+890,Joe HaTTab,Joe HaTTab,Movies,10800000.0,Somalia,2000000.0,104000.0,3900.0,Other,11/9/2022
+891,lincolnvelasquez,Cong TV,Other,10800000.0,Philippines,2700000.0,163300.0,4900.0,Other,11/6/2022
+892,Guns N' Roses,Guns N' Roses,Music & Dance,10800000.0,Brazil,951900.0,41700.0,2500.0,Other,11/4/2022
+893,Kids smile TV,Kids smile TV,Movies,10800000.0,Unknown,39000.0,247.0,0.0,Toys,11/22/2022
+894,KiKiDo,KiKiDo,Video games,10800000.0,Russia,2300000.0,48500.0,2200.0,Humor,11/9/2022
+895,NASAtelevision,NASA,News & Politics,10700000.0,United States,80500.0,2800.0,0.0,Science & Technology,11/15/2022
+896,Kashvi Adlakha,Kashvi Adlakha,Other,10700000.0,India,433300.0,16400.0,26.0,Other,11/19/2022
+897,Painzeiro,Painzeiro,Daily vlogs,10700000.0,Brazil,196700.0,9100.0,289.0,Other,11/7/2022
+898,Alexa Rivera,Alexa Rivera,Animation,10700000.0,United States,2000000.0,86100.0,3400.0,Humor,11/27/2022
+899,MeKcanal,Matheus e Kauan,Music & Dance,10700000.0,Brazil,6500.0,423.0,8.0,Other,11/26/2022
+900,Entertainment with Musa,Entertainment with Musa,Other,10700000.0,Pakistan,262600.0,2100.0,62.0,Other,11/11/2022
+901,DuDuPopTOY,DuDuPopTOY,Animation,10600000.0,Unknown,6600.0,53.0,0.0,Humor,11/3/2022
+902,sadhguru,Sadhguru,Movies,10600000.0,India,182500.0,5800.0,282.0,Other,11/21/2022
+903,stampylonghead,stampylonghead,Video games,10600000.0,United States,77000.0,3900.0,715.0,Other,11/12/2022
+904,timesmusicindia,Times Music,Music & Dance,10600000.0,India,7400.0,284.0,15.0,Other,11/29/2022
+905,mamilosmolengas,Mussoumano,Music & Dance,10600000.0,Brazil,2200000.0,75500.0,4000.0,Animation,11/13/2022
+906,PrankvsPrank,Jesse,Music & Dance,10600000.0,United States,106700.0,7300.0,1100.0,Humor,11/18/2022
+907,Family Box,Family Box,Video games,10600000.0,Russia,247200.0,7800.0,95.0,Other,11/23/2022
+908,sbtthenoite,The Noite com Danilo Gentili,Movies,10600000.0,Brazil,7200.0,426.0,16.0,Humor,11/6/2022
+909,craftingeek,Craftingeek,Other,10600000.0,Mexico,231300.0,11100.0,1100.0,Other,11/13/2022
+910,Pinkfong en español - Canciones Infantiles,Pinkfong en español - Canciones Infantiles,Animation,10600000.0,Unknown,46700.0,153.0,0.0,Toys,11/19/2022
+911,francinyehlke,Franciny Ehlke,Fashion,10600000.0,Brazil,208400.0,19700.0,396.0,Design/art,11/8/2022
+912,DRJ Records Specials,DRJ Records Specials,Other,10600000.0,India,24400.0,136.0,3.0,Other,11/30/2022
+913,[햄지]Hamzy,[햄지]Hamzy,Other,10600000.0,United States,1500000.0,33700.0,779.0,Other,11/7/2022
+914,AdamThomasMoran,AdamThomasMoran,Video games,10600000.0,Russia,488000.0,38800.0,2500.0,Humor,11/1/2022
+915,GoProCamera,GoPro,Sports,10600000.0,United States,35400.0,1700.0,53.0,Other,11/14/2022
+916,ChillStepNation,Chill Nation,Music & Dance,10600000.0,United States,21100.0,680.0,27.0,Other,11/26/2022
+917,MTV,MTV,Music & Dance,10600000.0,United States,18500.0,992.0,23.0,Movies,11/30/2022
+918,Toymong tv 토이몽TV,Toymong tv 토이몽TV,Other,10600000.0,Unknown,24900.0,195.0,0.0,Other,11/4/2022
+919,atv,atv,Movies,10600000.0,Turkey,28900.0,295.0,10.0,Animation,11/28/2022
+920,TeremokTV,Теремок ТВ,Video games,10600000.0,Unknown,281700.0,1100.0,0.0,Other,11/11/2022
+921,TeamMojang,Minecraft,Animation,10600000.0,United States,659800.0,37500.0,1400.0,Video games,11/10/2022
+922,BBCArabicNews,BBC News عربي,News & Politics,10600000.0,Morocco,16400.0,294.0,71.0,Other,11/23/2022
+923,Comedy Captain,Comedy Captain,Other,10600000.0,India,6000.0,62.0,2.0,Other,11/9/2022
+924,Eli Kids - Cartoons & Songs,Eli Kids - Cartoons & Songs,Music & Dance,10600000.0,Unknown,1000000.0,3200.0,0.0,Other,11/19/2022
+925,CJENMMUSIC,Stone Music Entertainment,Music & Dance,10600000.0,United States,5800.0,448.0,19.0,Movies,11/29/2022
+926,Hindi Kahaniya,Hindi Kahaniya,Other,10600000.0,India,125900.0,1600.0,29.0,Other,11/9/2022
+927,Rawan and Rayan,Rawan and Rayan,Other,10600000.0,Algeria,1100000.0,63400.0,3900.0,Other,11/18/2022
+928,Cris Devil Gamer,Cris Devil Gamer,Movies,10600000.0,United States,63400.0,3100.0,68.0,Animation,11/6/2022
+929,5incominutos,5incominutos,Other,10600000.0,Brazil,97500.0,17000.0,780.0,Other,11/11/2022
+930,Talent Recap,Talent Recap,Music & Dance,10600000.0,United States,139200.0,3800.0,80.0,Movies,11/21/2022
+931,Hindi Fairy Tales,Hindi Fairy Tales,Other,10600000.0,India,498800.0,7500.0,141.0,Other,11/12/2022
+932,soicon295,Magnet World,Other,10500000.0,United States,44900.0,651.0,8.0,Other,11/21/2022
+933,Juice WRLD,Juice WRLD,Music & Dance,10500000.0,United States,2100000.0,142400.0,10200.0,Other,11/7/2022
+934,GemaNadaPertiwi,GNP Music,Music & Dance,10500000.0,Indonesia,53400.0,979.0,0.0,Animation,11/3/2022
+935,Koray Zeynep,Koray Zeynep,Daily vlogs,10500000.0,Turkey,231100.0,4400.0,4.0,Other,11/27/2022
+936,Heroine Movies 2022,Heroine Movies 2022,Daily vlogs,10400000.0,India,229300.0,1600.0,9.0,Other,11/4/2022
+937,Playing with Rafael,Playing with Rafael,Other,10400000.0,Brazil,7000.0,49.0,0.0,Other,11/2/2022
+938,Utkarsh Classes Jodhpur,Utkarsh Classes Jodhpur,Education,10400000.0,India,134800.0,10600.0,257.0,Other,11/28/2022
+939,BrPVPHu3,João Caetano,Other,10400000.0,Brazil,626300.0,45600.0,966.0,Other,11/8/2022
+940,bhaktisongs,Shemaroo Bhakti,Music & Dance,10400000.0,India,7100.0,164.0,11.0,Other,11/27/2022
+941,TwinRoozi 쌍둥이 루지,TwinRoozi 쌍둥이 루지,Daily vlogs,10400000.0,Indonesia,74600.0,0.0,0.0,Other,11/3/2022
+942,"Baby Big Mouth Kids - Sing, Dance, Explore","Baby Big Mouth Kids - Sing, Dance, Explore",Animation,10400000.0,Unknown,528.0,4.0,0.0,Toys,11/14/2022
+943,SaraBeautyCorner,"SaraBeautyCorner - DIY, Comedy, Makeup, Nail Art",DIY & Life Hacks,10400000.0,United States,36200.0,2800.0,93.0,Other,11/28/2022
+944,TomorrowlandChannel,Tomorrowland,Music & Dance,10400000.0,Brazil,47600.0,1700.0,82.0,Other,11/15/2022
+945,EugenBro,EugenBro,Video games,10400000.0,Russia,258000.0,15100.0,1900.0,Other,11/27/2022
+946,THE BROWN SIBLINGS,THE BROWN SIBLINGS,Other,10400000.0,India,2400000.0,248100.0,547.0,Other,11/20/2022
+947,XO TEAM,XO TEAM,Other,10400000.0,United States,617900.0,38600.0,264.0,Other,11/1/2022
+948,TeremokSongs,Теремок - Песенки для детей,Music & Dance,10400000.0,Russia,98700.0,499.0,0.0,Other,11/11/2022
+949,AsapSCIENCE,AsapSCIENCE,Science & Technology,10400000.0,United States,149000.0,6800.0,338.0,Other,11/3/2022
+950,Jugnu Kids - Nursery Rhymes and Best Baby Songs,Jugnu Kids - Nursery Rhymes and Best Baby Songs,Animation,10400000.0,Unknown,161200.0,1300.0,0.0,Other,11/23/2022
+951,Adriana Show,Adriana Show,Animation,10400000.0,Unknown,462200.0,0.0,0.0,Toys,11/3/2022
+952,The Daily Show with Trevor Noah,The Daily Show with Trevor Noah,News & Politics,10400000.0,United States,185900.0,7000.0,402.0,Other,11/9/2022
+953,SpriteDer SPD,SpriteDer SPD,Humor,10400000.0,Thailand,4300000.0,152900.0,5600.0,Other,11/22/2022
+954,0214mex,はじめしゃちょー（hajime）,Music & Dance,10400000.0,Japan,592200.0,18500.0,1100.0,Humor,11/6/2022
+955,cleanbandit,Clean Bandit,Music & Dance,10400000.0,United States,21700.0,1000.0,32.0,Other,11/12/2022
+956,Doctor Mike,Doctor Mike,Health & Self Help,10400000.0,United States,710800.0,43400.0,2100.0,Other,11/12/2022
+957,ChennaiExp2013,Red Chillies Entertainment,Other,10400000.0,India,14200.0,1100.0,40.0,Other,11/28/2022
+958,Patty Mayo,Patty Mayo,Movies,10400000.0,United States,372100.0,14900.0,808.0,Humor,11/7/2022
+959,Sanam,Sanam,Music & Dance,10400000.0,India,66200.0,7400.0,497.0,Movies,11/2/2022
+960,Lorrayne Oliveira,Lorrayne Oliveira,Animation,10400000.0,Brazil,376600.0,18500.0,582.0,Humor,11/16/2022
+961,Oneindia Hindi | वनइंडिया हिंदी,Oneindia Hindi | वनइंडिया हिंदी,News & Politics,10400000.0,India,1700.0,18.0,1.0,Other,11/29/2022
+962,singkingkaraoke,Sing King,Music & Dance,10400000.0,United States,11300.0,113.0,9.0,Other,11/10/2022
+963,CS Bisht Vines,CS Bisht Vines,Other,10300000.0,India,1600000.0,16700.0,459.0,Other,11/15/2022
+964,5-Minute Recipes,5-Minute Recipes,Other,10300000.0,India,30500.0,330.0,7.0,Other,11/6/2022
+965,Dental Digest,Dental Digest,Other,10300000.0,United States,412500.0,14800.0,681.0,Other,11/9/2022
+966,Receitas de Pai,Receitas de Pai,Food & Drinks,10300000.0,Brazil,107100.0,9900.0,397.0,Other,11/5/2022
+967,Viki Show,Viki Show,Video games,10300000.0,Russia,1200000.0,32299.999999999996,1500.0,Toys,11/1/2022
+968,Hindi Countdown,Hindi Countdown,Education,10300000.0,India,701600.0,21300.0,649.0,Other,11/4/2022
+969,Airrack,Airrack,Video games,10300000.0,United States,3700000.0,168500.0,8700.0,Humor,11/6/2022
+970,Little Angel Bahasa Indonesia - Lagu Anak,Little Angel Bahasa Indonesia - Lagu Anak,Music & Dance,10300000.0,Unknown,460400.0,3000.0,0.0,Toys,11/9/2022
+971,Survival Builder,Survival Builder,Other,10300000.0,United States,585000.0,6000.0,132.0,Other,11/28/2022
+972,서은일상이야기,서은일상이야기,Other,10300000.0,Unknown,7500.0,58.0,0.0,Other,11/10/2022
+973,TopMovieClips,TopMovieClips,Movies,10200000.0,United States,119100.0,1700.0,93.0,Animation,11/1/2022
+974,behindwoodstv,BehindwoodsTV,Other,10200000.0,Unknown,14700.0,439.0,3.0,Other,11/4/2022
+975,JessicaJulioeBaby,Laurinha e Helena - Clubinho da Laura,Movies,10200000.0,Brazil,196300.0,3100.0,0.0,Animation,11/1/2022
+976,T-STUDIO,T-STUDIO,Other,10200000.0,Indonesia,31400.0,802.0,1.0,Other,11/24/2022
+977,Islam Populer,Islam Populer,Education,10200000.0,Indonesia,24800.0,898.0,78.0,Other,11/3/2022
+978,Wylsacom,Wylsacom,Science & Technology,10200000.0,Russia,578200.0,22300.0,2500.0,News & Politics,11/25/2022
+979,DalasReview,Dalas Review,Science & Technology,10200000.0,Mexico,305700.0,30900.0,4600.0,Other,11/5/2022
+980,nhstudioz,NH Studioz,Other,10200000.0,India,10600.0,71.0,2.0,Other,11/7/2022
+981,WoodyandKleiny,Woody & Kleiny,Other,10200000.0,United States,242200.0,20600.0,62.0,Other,11/30/2022
+982,VYRLOriginals,VYRLOriginals,Music & Dance,10200000.0,India,6600000.0,10300.0,366.0,Other,11/30/2022
+983,123 GO! Hindi,123 GO! Hindi,Other,10200000.0,India,308200.0,2400.0,21.0,Other,11/24/2022
+984,NFL,NFL,Sports,10200000.0,United States,24500.0,635.0,78.0,Other,11/27/2022
+985,ChuChuTV Español,ChuChuTV Español,Toys,10200000.0,Unknown,51400.0,358.0,0.0,Other,11/23/2022
+986,Sơn Tùng M-TP Official,Sơn Tùng M-TP Official,Music & Dance,10200000.0,United States,100900.0,7700.0,108.0,Animation,11/23/2022
+987,مصطفى GAME OVER,مصطفى GAME OVER,Other,10200000.0,Iraq,852500.0,100800.0,3100.0,Other,11/19/2022
+988,htv2channel,Vie Channel - HTV2,Music & Dance,10200000.0,United States,62500.0,686.0,50.0,Other,11/1/2022
+989,ThePersica,Orkun Işıtmak,Animation,10200000.0,Turkey,2000000.0,76300.0,2400.0,Other,11/23/2022
+990,OneRepublic,OneRepublic,Music & Dance,10100000.0,United States,28000.0,3200.0,159.0,Other,11/1/2022
+991,Eagle Home Entertainments,Eagle Home Entertainments,Other,10100000.0,India,1100.0,7.0,0.0,Other,11/13/2022
+992,Sab Kuchh Sekho Jano,Sab Kuchh Sekho Jano,News & Politics,10100000.0,India,14500.0,852.0,27.0,Other,11/5/2022
+993,Heera Gold,Heera Gold,Daily vlogs,10100000.0,Pakistan,21400.0,840.0,65.0,Other,11/22/2022
+994,HiTechIslamic,Hi-Tech Islamic Naat,Music & Dance,10100000.0,Pakistan,39600.0,897.0,81.0,Other,11/7/2022
+995,Luan Palomera,Luan Palomera,Other,10100000.0,Mexico,458600.0,16400.0,1400.0,Other,11/15/2022
+996,RUOK,RUOK,Other,10100000.0,Brazil,215400.0,25200.0,1300.0,Other,11/5/2022
+997,FoxNewsChannel,Fox News,News & Politics,10100000.0,United States,98400.0,4000.0,884.0,Other,11/22/2022
+998,SULE PRODUCTIONS,SULE PRODUCTIONS,Other,10100000.0,Indonesia,218300.0,4500.0,306.0,Other,11/1/2022
+999,MBCkpop,MBCkpop,Music & Dance,10100000.0,Malaysia,19700.0,2600.0,92.0,Other,11/8/2022
+1000,Dynamo Gaming,Dynamo Gaming,Other,10100000.0,India,139600.0,15400.0,125.0,Other,11/15/2022

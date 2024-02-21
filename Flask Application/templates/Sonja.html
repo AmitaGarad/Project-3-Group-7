@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Data Visualization</title>
     <meta charset="utf-8" />
     <style>
         body {
             background: url('https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/09/090622_jm_ai-words_feat.jpg?fit=1002%2C580&ssl=1') no-repeat center center fixed;
             background-size: cover;
+            text-align: center; /* Center align text */
+        }
+        .plot {
+            width: 600px; /* Adjust width as needed */
+            height: 400px; /* Adjust height as needed */
+            margin: 20px auto; /* Center align plots */
+            border: 1px solid #ccc; /* Add border for clarity */
+            background-color: #fff; /* White background */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
         }
     </style>
 </head>
@@ -14,8 +23,14 @@
     <div class="homePage">
         <h4><a href="/">Home</a></h4>
     </div>
-    <div class="bd-example" align="middle">
-        <img src="{{ url_for('static', filename='Alltime-likes-views.png') }}" align="middle" />
-    </div>
+    <!-- Placeholder divs for plots -->
+    <div id="december-plot" class="plot"></div>
+    <div id="november-plot" class="plot"></div>
+    <div id="september-plot" class="plot"></div>
+
+    <!-- Include Plotly.js library -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- Include JavaScript file -->
+    <script src="../../static/js/Sanja.js"></script>
 </body>
 </html>

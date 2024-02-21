@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI Influencer Measurement</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <style>
+        .dropdown-item {display: block;}
+    </style>
+    <style>
+      body {
+          background: url('https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/09/090622_jm_ai-words_feat.jpg?fit=1002%2C580&ssl=1') no-repeat center center fixed;
+          background-size: cover;
+      }
+  </style>
+  </head>
+  <body>
+    <div class="homePage">
+      <h4><a href="/">Home</a></h4>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>AI Influencer indicator</h1>
+          <p>Use the interactive charts to measure each AI-generated influencer capability</p>
+        </div>
+      </div>
+      <button id="toggle">Influencer dropdown (Click me for hide/unhide search bar)</button>
+      <div id="dropdown">
+          <input type="text" id="input" placeholder="Search influencer ...">
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title">Influencer Info</h3>
+        </div>
+        <div id="Influencer-data" class="panel-body"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="placeholder"></div>
+      </div>
+      <div>
+        <canvas id="myChart", style="background-color: rgb(255, 255, 255);"></canvas>
+      </div>
+      
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </div>
+  </body>
+
+  <script type="text/javascript" src="{{ url_for('static', filename='js/Luo.js')}}"></script>
+
+</html>
