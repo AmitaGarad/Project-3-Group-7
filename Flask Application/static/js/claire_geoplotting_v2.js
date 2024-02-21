@@ -3,13 +3,17 @@ let myMap = L.map("map", {
     center: [37.0902, -95.7129], // Centered on the US
     zoom: 4
 });
+
 let streetmap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
+
 // Create layer groups to hold the markers
 let markerLayer = L.layerGroup().addTo(myMap);
+
 // Create layer group to hold circle markers
 let circleLayer = L.layerGroup().addTo(myMap);
+
 // Create an object to hold the different layers
 let baseLayers = {
     "Street Map": streetmap,
@@ -18,8 +22,9 @@ let baseLayers = {
 let overlayLayers = {
     "AI Influencers": markerLayer,
 };
-// Add layer control to the map
-L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
+// Add layer control to the map - Decided to omit
+// L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
+
 // Create object to store coordinates for each state/province
 // Auto-populate Georgia, the conversion is incorrect using the API for some reason
 let countryCoordinates = {
