@@ -5,6 +5,12 @@
     <title>Top 10 YouTubers</title>
     <!-- Include Chart.js library -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            background: url('https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/09/090622_jm_ai-words_feat.jpg?fit=1002%2C580&ssl=1') no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
 </head>
 <body>
     <div class="homePage">
@@ -13,11 +19,10 @@
     <div class="row">
         <div class="col-md-12 jumbotron text-center">
           <h1>Top 10 YouTube Influencer by Subscribers</h1>
-          <p>Use the interactive chart below to explore the dataset</p>
         </div>
     </div>
     <div>
-        <canvas id="subscriberChart"></canvas>
+        <canvas id="subscriberChart", style="background-color: rgb(255, 255, 255);"></canvas>
     </div>
     <script type="text/javascript" src="{{ url_for('static', filename='js/top10.js')}}"></script>
 </body>

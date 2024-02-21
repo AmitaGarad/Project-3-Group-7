@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, send_from_directory
 import json
 from collections import OrderedDict
 import pandas as pd
@@ -51,6 +51,10 @@ def index7():
 def index8():
     return render_template('Luo.html')
 
+@app.route('/Sonja')
+def index9():
+    return render_template('Sonja.html')
+
 @app.route('/AI_Info')
 def get_data1():
     # Load data from JSON file and return as JSON response
@@ -91,24 +95,6 @@ def data():
     country_counts = df_youtube['Country'].value_counts().reset_index()
     country_counts.columns = ['Country', 'Count']
     return jsonify(country_counts.to_dict(orient='records'))
-
-@app.route('/sept_data')
-def get_data5():
-    # Load data from CSV file and return as JSON response
-    data = pd.read_csv('static/Resources/Sept_clean_data_v2.csv').to_dict(orient='records')
-    return jsonify(data)
-
-@app.route('/nov_data')
-def get_data6():
-    # Load data from CSV file and return as JSON response
-    data = pd.read_csv('static/Resources/Nov_clean_data_v2.csv').to_dict(orient='records')
-    return jsonify(data)
-
-@app.route('/dec_data')
-def get_data7():
-    # Load data from CSV file and return as JSON response
-    data = pd.read_csv('static/Resources/Dec_clean_data_v2.csv').to_dict(orient='records')
-    return jsonify(data)
 
 if __name__ == '__main__':
     app.run(debug=True)
