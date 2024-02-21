@@ -22,14 +22,14 @@ let baseLayers = {
 let overlayLayers = {
     "AI Influencers": markerLayer,
 };
-// Add layer control to the map - Decided to omit
-// L.control.layers(baseLayers, overlayLayers, {collapsed:false}).addTo(myMap);
 
 // Create object to store coordinates for each state/province
-// Auto-populate Georgia, the conversion is incorrect using the API for some reason
+// Auto-populate Georgia and Ontario, the conversion is incorrect using the API for some reason
 let countryCoordinates = {
-    "Georgia": { lat: 32.1656, lng: -82.9001 }
+    "Georgia": { lat: 32.1656, lng: -82.9001 },
+    "Ontario": { lat: 43.65107, lng: -79.347015}
 };
+
 // Function to get coordinates for a state/province using Geoapify
 const getLocationCoordinates = async (locationName, count) => {
     if (countryCoordinates[locationName]) {
@@ -58,6 +58,7 @@ const getLocationCoordinates = async (locationName, count) => {
         throw error;
     }
 };
+
 // Collect AI Influencer Data
 fetch('/Subset_AI_Data')
     .then(response => {

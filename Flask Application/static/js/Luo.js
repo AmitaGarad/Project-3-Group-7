@@ -53,7 +53,7 @@ fetch('/AI_Info') //output.json
             let item = d3.select(this).attr("value");
             console.log(item);
             createInfo(item);
-            createPieChart(item);
+            createChart(item);
         });
     })
 
@@ -76,7 +76,7 @@ function createInfo(data) {
     })
 }
 
-function createPieChart(data) {
+function createChart(data) {
     //data engineering 1
     fetch('/AI_200_Info') //call AI_Influencer_200.json
         .then((response) => response.json())
