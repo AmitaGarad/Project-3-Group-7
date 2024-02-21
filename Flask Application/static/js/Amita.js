@@ -7,6 +7,11 @@ fetch('/Amita_data')
       count: row.Count,
     }));
 
+    // Set the size of the map container
+    const mapContainer = document.getElementById('choroplethMap');
+    mapContainer.style.width = '100%';  // Set the width to 100% of the container
+    mapContainer.style.height = '700px';  // Set a fixed height for the map
+    
     const fig = {
       data: [{
         type: 'choropleth',
@@ -23,7 +28,9 @@ fetch('/Amita_data')
         geo: {
           projection: { type: "natural earth" },
           bgcolor: 'black'  // Set the background color of the map to black
-        }
+        },
+        paper_bgcolor: 'rgba(0,0,0,0)',  // Set the background color as transparent
+        plot_bgcolor: 'rgba(0,0,0,0)'   // Set the plot background color as transparent
       }
     };
 
