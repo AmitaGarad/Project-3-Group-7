@@ -24,9 +24,10 @@ let overlayLayers = {
 };
 
 // Create object to store coordinates for each state/province
-// Auto-populate Georgia, the conversion is incorrect using the API for some reason
+// Auto-populate Georgia and Ontario, the conversion is incorrect using the API for some reason
 let countryCoordinates = {
-    "Georgia": { lat: 32.1656, lng: -82.9001 }
+    "Georgia": { lat: 32.1656, lng: -82.9001 },
+    "Ontario": { lat: 43.65107, lng: -79.347015}
 };
 
 // Function to get coordinates for a state/province using Geoapify
