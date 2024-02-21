@@ -2,12 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>YouTube Influencers Distribution by Country</title>
+    <title>Influencers count by Country</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
     <div class="homePage">
         <h4><a href="/">Home</a></h4>
+    <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>YouTube Influencers Distribution by Country</h1>
+          <p>Use the interactive chart below to explore the dataset</p>
+        </div>
+    </div>
     </div>
     <div id="choroplethMap" style="width: 100%; height: 600px;"></div>
     <script type="text/javascript" src="{{ url_for('static', filename='js/Amita.js')}}"></script>
