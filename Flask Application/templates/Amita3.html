@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YouTube Subscribers Heatmap</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            background: url('https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/09/090622_jm_ai-words_feat.jpg?fit=1002%2C580&ssl=1') no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="homePage">
+        <h4><a href="/">Home</a></h4>
+    </div>
+    <h1>YouTube Subscribers Heatmap</h1>
+    <div id="heatmap"></div>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/subscriber.js')}}"></script>
+</body>
+</html>
