@@ -31,9 +31,9 @@ Use of AI-generated data is an ethical move to present ethical consideration ins
  - **D3**: Javascript library to read in data files.
    - [D3.js Documentation](https://d3js.org/)
 - **Chart.js**: Javascript library used to plot. *(NEW PACKAGE)*
-   - [Chart.js Documentation]https://www.chartjs.org/ 
+   - [Chart.js Documentation](https://www.chartjs.org/)
 - **Choropleth Map**: Plotly library that generates choropleth map. *(NEW PACKAGE)*
-   - [Plotly.newPlot Documentation]https://plotly.com/javascript/plotlyjs-function-reference/ 
+   - [Plotly.newPlot Documentation](https://plotly.com/javascript/plotlyjs-function-reference/)
 
 
 ## Process/Conclusions:
