@@ -1,4 +1,5 @@
-# Project-3-Group-7
+# Influencer Visualization Project
+## Project-3-Group-7
 
 ## Project Overview and Purpose:
 
