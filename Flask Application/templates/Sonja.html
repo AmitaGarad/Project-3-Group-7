@@ -7,7 +7,6 @@
         body {
             background: url('https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/09/090622_jm_ai-words_feat.jpg?fit=1002%2C580&ssl=1') no-repeat center center fixed;
             background-size: cover;
-            text-align: center; /* Center align text */
         }
         .plot {
             width: 600px; /* Adjust width as needed */
@@ -23,14 +22,8 @@
     <div class="homePage">
         <h4><a href="/">Home</a></h4>
     </div>
-    <!-- Placeholder divs for plots -->
-    <div id="december-plot" class="plot"></div>
-    <div id="november-plot" class="plot"></div>
-    <div id="september-plot" class="plot"></div>
-
-    <!-- Include Plotly.js library -->
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <!-- Include JavaScript file -->
-    <script src="../../static/js/Sanja.js"></script>
+    <div class="bd-example" align="middle">
+        <img src="{{ url_for('static', filename='Alltime-likes-views.png') }}" align="middle" />
+    </div>
 </body>
 </html>
