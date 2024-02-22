@@ -1,4 +1,3 @@
-// Define a function to read CSV files
 function readCSV(file, callback) {
     fetch(file)
         .then(response => response.text())
@@ -18,7 +17,6 @@ function readCSV(file, callback) {
         });
 }
 
-// Define a function to convert numeric values
 function convertToNumeric(value) {
     let suffixes = {
         'k': 10 ** 3,
@@ -40,13 +38,11 @@ function convertToNumeric(value) {
     }
 }
 
-// Function to create a scatter plot
 function createScatterPlot(data, month) {
     let xData = data.map(row => parseFloat(row['Average_view']));
     let yData = data.map(row => parseFloat(row['Average_likes']));
     let sizes = data.map(row => convertToNumeric(row['Subscribers']) * 0.000002);
 
-    // Create a scatter plot
     let trace1 = {
         x: xData,
         y: yData,
@@ -71,9 +67,7 @@ function createScatterPlot(data, month) {
     Plotly.newPlot(month.toLowerCase() + '-scatter', [trace1], layout);
 }
 
-// Read and process December data
 readCSV('../../Resources/Dec_clean_data.csv', function (dec) {
-    // Convert numeric columns
     let numericCols = ['Subscribers', 'Average_view', 'Average_likes', 'Average_comments'];
     dec.forEach(function (row) {
         numericCols.forEach(function (col) {
@@ -81,13 +75,10 @@ readCSV('../../Resources/Dec_clean_data.csv', function (dec) {
         });
     });
 
-    // Perform plotting
     createScatterPlot(dec, 'December');
 });
 
-// Read and process November data
 readCSV('../../Resources/Nov_clean_data.csv', function (nov) {
-    // Convert numeric columns
     let numericCols = ['Subscribers', 'Average_view', 'Average_likes', 'Average_comments'];
     nov.forEach(function (row) {
         numericCols.forEach(function (col) {
@@ -95,13 +86,10 @@ readCSV('../../Resources/Nov_clean_data.csv', function (nov) {
         });
     });
 
-    // Perform plotting
     createScatterPlot(nov, 'November');
 });
 
-// Read and process September data
 readCSV('../../Resources/Sept_clean_data.csv', function (sep) {
-    // Convert numeric columns
     let numericCols = ['Subscribers', 'Average_view', 'Average_likes', 'Average_comments'];
     sep.forEach(function (row) {
         numericCols.forEach(function (col) {
@@ -109,6 +97,5 @@ readCSV('../../Resources/Sept_clean_data.csv', function (sep) {
         });
     });
 
-    // Perform plotting
     createScatterPlot(sep, 'September');
 });
